@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 .app-wrapper {
     display: flex;
     flex-direction: column;
     min-height: 100vh; /* Altezza minima della viewport */
-=======
-.app-wrapper {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh; /* Altezza minima della viewport */
->>>>>>> 58de0d18de0ed33f02ffc7b8635f7c580812dc70
   }
