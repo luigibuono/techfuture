@@ -39,14 +39,19 @@ export class HomeComponent {
     
   ];
 
+  constructor(private newsService: NewsService) {}
 
   news: any[] = [];
   news2: any[] = [];
+
+  firstBlockNews: any[] = [];  // I primi 6 articoli
+  secondBlockNews: any[] = []; // I successivi 6 articoli
 
   ngOnInit() {
     this.getGNews();
     this.getNews();
     this.startInterval();
+    
   }
 
   getGNews(): void {

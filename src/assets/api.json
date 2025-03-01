@@ -1,0 +1,123 @@
+{
+  "status": "ok",
+  "totalResults": 42,
+  "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "John Harney",
+      "title": "Trump Will Host Crypto Summit at the White House Next Friday - Bloomberg",
+      "description": "President Donald Trump will preside over the White House’s first cryptocurrency summit next Friday, further establishing his embrace of the industry.",
+      "url": "https://www.bloomberg.com/news/articles/2025-03-01/trump-will-host-crypto-summit-at-the-white-house-next-friday",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixgNXOkYfsZE/v0/1200x800.jpg",
+      "publishedAt": "2025-03-01T02:50:00Z",
+      "content": "President Donald Trump will preside over the White Houses first cryptocurrency summit next Friday, further establishing his embrace of the industry.\r\nTrump will deliver remarks at the gathering that … [+200 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "The Chinese EV Maker Threatening Ford and GM - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/business/autos/chinese-ev-maker-xiaomi-threatening-ford-gm-tesla-757cabb4",
+      "urlToImage": null,
+      "publishedAt": "2025-03-01T02:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Kara Greenberg",
+      "title": "Why Wall Street Analysts Say Nvidia Could Be a DeepSeek 'Beneficiary’ - Investopedia",
+      "description": "Nvidia's post-earnings plunge pulled the stock back near January’s lows. Analysts have remained bullish, and said they expect Nvidia to be a DeepSeek beneficiary.",
+      "url": "https://www.investopedia.com/why-wall-street-analysts-say-nvidia-could-be-a-deepseek-beneficiary-stock-11688732",
+      "urlToImage": "https://www.investopedia.com/thmb/dQzwSSbeyaN_slv1add2ef1ioVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-21923467711-6c5355898f274f03a37a18c8d600063d.jpg",
+      "publishedAt": "2025-02-28T23:48:21Z",
+      "content": "<ul><li>This weeks post-earnings losses brought Nvidia's stock near the January lows that came after a DeepSeek-driven plunge. </li><li>Analysts have largely remained bullish, pointing to Nvidia's st… [+2347 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Colin Laidley",
+      "title": "Nvidia Stock Finds Support from Friday Dip-Buyers - Investopedia",
+      "description": "Nvidia shares rose Friday, suggesting the stock found some support from dip-buyers after yesterday's sell-off.",
+      "url": "https://www.investopedia.com/nvidia-stock-finds-support-from-friday-dip-buyers-11688344",
+      "urlToImage": "https://www.investopedia.com/thmb/aw7DHJCZORmgFnVkws-OdMVuKGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2193573174-d64f5e11e3184ec297e96e7276939dfc.jpg",
+      "publishedAt": "2025-02-28T23:27:04Z",
+      "content": "Nvidia (NVDA) shares finished Friday higher, suggesting the stock found some support from dip-buyers after yesterday's sell-off. \r\nNvidia stock ended the day up nearly 4% in recent trading after tumb… [+1522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Greg Robb",
+      "title": "Regional Fed bank sees negative growth rate in first quarter, first contraction in three years - MarketWatch",
+      "description": "See the market action as investors weighed a tense meeting between Trump and Zelensky at the White House as well as the latest U.S. inflation data.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-set-for-cautious-start-ahead-of-key-pce-data",
+      "urlToImage": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+      "publishedAt": "2025-02-28T23:15:47Z",
+      "content": "The Atlanta Fed's GDPNow forecast for the first quarter was just revised to show a contraction at a 1.5% annual rate. This would be the first quarterly contraction in the economy since the first quar… [+327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Andrew Kessel",
+      "title": "Intel Pushes Back Ohio Chipmaking Plant Opening by Four Years to 2030 - Investopedia",
+      "description": "Intel said it plans to push back the opening of two chipmaking facilities currently under construction in Ohio.",
+      "url": "https://www.investopedia.com/intel-pushes-back-ohio-chipmaking-plant-opening-by-four-years-to-2030-11688887",
+      "urlToImage": "https://www.investopedia.com/thmb/-ldznD8nUxHs5L2qdO3E4IUDBxA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-21553860181-4751d345d437437586ef96111ba449ad.jpg",
+      "publishedAt": "2025-02-28T22:56:14Z",
+      "content": "<ul><li>Intel said it plans to push back the opening of two chipmaking facilities currently under construction in Ohio. </li><li>The company's chief global operations officer said the move reflected … [+1494 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Peter Kafka",
+      "title": "Jeff Bezos' Washington Post moves might please Trump — but they're costing him money - Business Insider",
+      "description": "Jeff Bezos' moves seem like they are helping him win favor with Donald Trump. But they're going to cost his paper money, so why own it at all?",
+      "url": "https://www.businessinsider.com/jeff-bezos-washington-post-donald-trump-why-own-explained-2025-02",
+      "urlToImage": "https://i.insider.com/67c22aaf69253ccddf97f8be?width=1200&format=jpeg",
+      "publishedAt": "2025-02-28T21:54:00Z",
+      "content": "Let's stipulate that Jeff Bezos bought The Washington Post in 2013 for $250 million. So he can do anything he wants with it.\r\nLike ordering the paper's editors not to make a presidential endorsement.… [+3758 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Stan Choe",
+      "title": "Stock market today: Wall Street rallies, and Dow jumps 600 to make a dreary February not so bad - The Associated Press",
+      "description": "Wall Street closed its dreary February on a brighter note, as U.S. stock indexes rallied. The S&P 500 jumped 1.6% Friday to trim its loss for the month, enough to make it the worst since only December instead of since April. The Dow Jones Industrial Average c…",
+      "url": "https://apnews.com/article/stocks-markets-rates-tariffs-ai-a80355efea6fd7454df04d68cf3a79a1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b6ae17b/2147483647/strip/true/crop/7227x4065+0+376/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdc%2Fae%2Fbbc4309c4ccaa22707e623de149f%2Ffa18afb49b9a4b089d2dfe5b428a997f",
+      "publishedAt": "2025-02-28T21:53:00Z",
+      "content": "NEW YORK (AP) U.S. stocks rallied on Friday to close out their dreary February on a brighter note.\r\nThe S&amp;P 500 jumped 1.6% to trim its loss for the month, enough to make it the worst only since … [+4917 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Angrej Singh", 
+      "title": "Elon Musk on Rogan: Key moments from the 3-hour podcast interview - Axios",
+      "description": "Musk told Rogan DOGE is the \"first threat to bureaucracy\" and the \"revolution might actually succeed.\"",
+      "url": "https://www.axios.com/2025/02/28/musk-rogan-interview-doge-trump-epstein",
+      "urlToImage": "https://images.axios.com/SFmgyDf63MHoIsQFH34YD9yYf7Y=/0x0:6400x3600/1366x768/2025/02/28/1740775163144.jpg",
+      "publishedAt": "2025-02-28T21:28:15Z",
+      "content": "Elon Musk defended DOGE's actions, name dropped alleged Jeffery Epstein clients and weighed in on the \"Gulf of America\" standoff between the Trump administration and the Associated Press in an appear… [+3211 chars]"
+    }
+  ]
+}

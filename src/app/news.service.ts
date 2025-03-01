@@ -6,8 +6,9 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class NewsService {
-  private apiUrlSapi = '';
-  private apiUrl = '';
+  private apiUrlSapi = 'assets/api.json';  // Update to match your file's name
+  private apiUrl = 'assets/api.json';      // Update to match your file's name
+  
 
   constructor(private http: HttpClient) { }
 
