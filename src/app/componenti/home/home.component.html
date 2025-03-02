@@ -7,16 +7,27 @@
   </div>
 </div>
 
-
-<!--Demo version-->
-
-
+<!-- Demo version -->
 <div class="container mt-5 mb-5">
+  <!-- Filtro per selezionare gli articoli per autore -->
+  <div class="row mb-4">
+    <div class="col text-center">
+      <!-- Pulsanti per cambiare il filtro degli articoli -->
+      <button class="btn btn-primary m-1" (click)="filterByAuthor('Redazione Storica2')">1</button>
+      <button class="btn btn-primary m-1" (click)="filterByAuthor('Redazione Storica')">2</button>
+      <button class="btn btn-primary m-1" (click)="filterByAuthor('Redazione Storica1')">3</button>
+      <button class="btn btn-primary m-1" (click)="filterByAuthor('Redazione Storica')">4</button>
+      <button class="btn btn-primary m-1" (click)="filterByAuthor('Redazione Storica1')">5</button>
+      <button class="btn btn-primary m-1" (click)="filterByAuthor('Redazione Storica2')">6</button>
+    </div>
+  </div>
+
+  <!-- Articoli filtrati -->
   <div class="row mt-4">
-    <div class="col-md-6" *ngFor="let article of news.slice(0, 6); let i = index;" style="margin-bottom:2rem">
+    <div class="col-md-6" *ngFor="let article of filteredNews.slice(0, 6); let i = index;" style="margin-bottom:2rem">
       <div class="card h-100">
         <!-- Immagine nella parte superiore della card -->
-        <img [src]="article.urlToImage" class="card-img-top" alt="Immagine dell'articolo">
+        <img [src]="article.urlToImage" class="card-img-top-principali" alt="Immagine dell'articolo">
         <div class="card-body">
           <h5 class="card-title">{{ article.title }}</h5>
           <p class="card-text">{{ article.description }}</p>
@@ -26,6 +37,7 @@
     </div>
   </div>
 </div>
+
 
 <div class="container mt-5 mb-5">
   <!-- Seconda sezione con card -->
@@ -513,25 +525,22 @@
 
 
 
+  <!-- Primo Piano -->
 <div class="container mt-5">
   <h2 id="pm">Primo piano</h2>
   <hr>
-  <!-- Seconda sezione con sfondo blu -->
   <div class="blue-background">
-    <!-- Container delle card -->
-    <div class="card-container" #cardContainer>
+    <div class="card-container" #cardContainerPrimoPiano>
       <!-- Frecce di navigazione -->
       <div class="nav-arrow left" (click)="scrollCards('left')">&#8592;</div>
       <div class="nav-arrow right" (click)="scrollCards('right')">&#8594;</div>
 
-      <!-- Container interno per le card -->
       <div class="card-inner-container">
-        <!-- Card -->
-        <div class="card d-inline-block m-2" style="width: 18rem;" *ngFor="let article of news.slice(24 ,30); let i = index;">
+        <div class="card d-inline-block m-2" style="width: 18rem;" *ngFor="let article of news.slice(0 ,10); let i = index;">
           <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
           <div class="card-body2">
-            <div class="date" >
-                <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
+            <div class="date">
+              <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
             <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
             <p class="card-text">{{ article?.description | slice:0:20 }}</p>
@@ -542,6 +551,7 @@
     </div>
   </div>
 </div>
+
 
 
 <!--Sport-->
@@ -573,7 +583,7 @@
 
   <div class="row mt-4">
      <!-- Card principale -->
-     <div class="col-md-6">
+     <div class="col-md-6" *ngFor="let article of news.slice(0, 6); let i = index;" style="margin-bottom:2rem">
       <div class="card main-card">
         <div class="row no-gutters">
           <div class="col-md-6">
@@ -708,33 +718,25 @@
 </div>
 
 
-<!--Video-->
+<!-- Il meglio -->
 <div class="container mt-5">
   <h2 id="meglio">Il meglio</h2>
   <hr>
-  <!-- Seconda sezione con sfondo blu -->
   <div class="blue-background">
-    <!-- Container delle card -->
     <div class="card-container" #cardContainer2>
-      <!-- Frecce di navigazione -->
-
-
-      <!-- Container interno per le card -->
-
-        <div class="card-inner-container">
-          <!-- Card -->
-          <div class="card d-inline-block m-2" style="width: 18rem;" *ngFor="let article of news.slice(50 ,60); let i = index;">
-            <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-            <div class="card-body2">
-              <div class="date" >
-                  <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-              </div>
-              <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-              <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-              <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
+      <div class="card-inner-container">
+        <div class="card d-inline-block m-2" style="width: 18rem;" *ngFor="let article of news.slice(0 ,60); let i = index;">
+          <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
+          <div class="card-body2">
+            <div class="date">
+              <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
+            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
+            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
+      </div>
     </div>
   </div>
 </div>
@@ -754,7 +756,7 @@
 
 <div class="row mt-4">
   <!-- Card principale -->
-  <div class="col-md-6">
+  <div class="col-md-6" *ngFor="let article of news.slice(0, 6); let i = index;" style="margin-bottom:2rem">
     <div class="card main-card">
       <div class="row no-gutters">
         <div class="col-md-6">
@@ -1117,23 +1119,18 @@
 </div>
 
 
-<!--Focus-->
+<!-- Focus -->
 <div class="container mt-5">
   <h2 id="focus">Focus</h2>
   <hr>
-  <!-- Seconda sezione con sfondo blu -->
   <div class="blue-background">
-    <!-- Container delle card -->
-    <div class="card-container" #cardContainer>
-
-      <!-- Container interno per le card -->
+    <div class="card-container" #cardContainerFocus>
       <div class="card-inner-container">
-        <!-- Card -->
         <div class="card d-inline-block m-2" style="width: 18rem;" *ngFor="let article of news.slice(4 ,14); let i = index;">
           <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
           <div class="card-body2">
-            <div class="date" >
-                <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
+            <div class="date">
+              <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
             <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
             <p class="card-text">{{ article?.description | slice:0:20 }}</p>
@@ -1144,6 +1141,7 @@
     </div>
   </div>
 </div>
+
 
 
 

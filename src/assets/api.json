@@ -3,121 +3,184 @@
   "totalResults": 42,
   "articles": [
     {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "John Harney",
-      "title": "Trump Will Host Crypto Summit at the White House Next Friday - Bloomberg",
-      "description": "President Donald Trump will preside over the White House’s first cryptocurrency summit next Friday, further establishing his embrace of the industry.",
-      "url": "https://www.bloomberg.com/news/articles/2025-03-01/trump-will-host-crypto-summit-at-the-white-house-next-friday",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixgNXOkYfsZE/v0/1200x800.jpg",
-      "publishedAt": "2025-03-01T02:50:00Z",
-      "content": "President Donald Trump will preside over the White Houses first cryptocurrency summit next Friday, further establishing his embrace of the industry.\r\nTrump will deliver remarks at the gathering that … [+200 chars]"
+      "author": "Redazione Storica",
+      "title": "Il primo aereo a motore solca i cieli",
+      "description": "I fratelli Wright effettuano il primo volo con un aereo a motore a Kitty Hawk, cambiando per sempre il trasporto aereo.",
+      "url": "https://it.wikipedia.org/wiki/I_fratelli_Wright",
+      "urlToImage": "https://images.pexels.com/photos/2642042/pexels-photo-2642042.jpeg",
+      "publishedAt": "1903-12-17T10:00:00Z",
+      "content": "Con il volo di Wright, si inaugura l'era dell'aviazione, destinata a rivoluzionare il trasporto e la guerra."
     },
     {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "The Wall Street Journal",
-      "title": "The Chinese EV Maker Threatening Ford and GM - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/autos/chinese-ev-maker-xiaomi-threatening-ford-gm-tesla-757cabb4",
-      "urlToImage": null,
-      "publishedAt": "2025-03-01T02:00:00Z",
-      "content": null
+      "author": "Redazione Storica",
+      "title": "La lampadina di Edison illumina il mondo",
+      "description": "Thomas Edison perfeziona la lampadina elettrica, portando la luce artificiale nelle case di milioni di persone.",
+      "url": "https://it.wikipedia.org/wiki/Thomas_Edison",
+      "urlToImage": "https://images.pexels.com/photos/2821346/pexels-photo-2821346.jpeg",
+      "publishedAt": "1879-10-22T00:00:00Z",
+      "content": "La lampadina di Edison segna un passo fondamentale nell'elettrificazione delle città."
     },
     {
-      "source": {
-        "id": null,
-        "name": "Investopedia"
-      },
-      "author": "Kara Greenberg",
-      "title": "Why Wall Street Analysts Say Nvidia Could Be a DeepSeek 'Beneficiary’ - Investopedia",
-      "description": "Nvidia's post-earnings plunge pulled the stock back near January’s lows. Analysts have remained bullish, and said they expect Nvidia to be a DeepSeek beneficiary.",
-      "url": "https://www.investopedia.com/why-wall-street-analysts-say-nvidia-could-be-a-deepseek-beneficiary-stock-11688732",
-      "urlToImage": "https://www.investopedia.com/thmb/dQzwSSbeyaN_slv1add2ef1ioVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-21923467711-6c5355898f274f03a37a18c8d600063d.jpg",
-      "publishedAt": "2025-02-28T23:48:21Z",
-      "content": "<ul><li>This weeks post-earnings losses brought Nvidia's stock near the January lows that came after a DeepSeek-driven plunge. </li><li>Analysts have largely remained bullish, pointing to Nvidia's st… [+2347 chars]"
+      "author": "Redazione Storica",
+      "title": "La nascita della radio come strumento di comunicazione",
+      "description": "Guglielmo Marconi trasmette il primo segnale radio, aprendo la strada alla comunicazione senza fili.",
+      "url": "https://it.wikipedia.org/wiki/Guglielmo_Marconi",
+      "urlToImage": "https://images.pexels.com/photos/4415889/pexels-photo-4415889.jpeg",
+      "publishedAt": "1895-12-12T00:00:00Z",
+      "content": "La radio diventa un punto di riferimento nella comunicazione globale, cambiando il modo in cui il mondo ascolta e si informa."
     },
     {
-      "source": {
-        "id": null,
-        "name": "Investopedia"
-      },
-      "author": "Colin Laidley",
-      "title": "Nvidia Stock Finds Support from Friday Dip-Buyers - Investopedia",
-      "description": "Nvidia shares rose Friday, suggesting the stock found some support from dip-buyers after yesterday's sell-off.",
-      "url": "https://www.investopedia.com/nvidia-stock-finds-support-from-friday-dip-buyers-11688344",
-      "urlToImage": "https://www.investopedia.com/thmb/aw7DHJCZORmgFnVkws-OdMVuKGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2193573174-d64f5e11e3184ec297e96e7276939dfc.jpg",
-      "publishedAt": "2025-02-28T23:27:04Z",
-      "content": "Nvidia (NVDA) shares finished Friday higher, suggesting the stock found some support from dip-buyers after yesterday's sell-off. \r\nNvidia stock ended the day up nearly 4% in recent trading after tumb… [+1522 chars]"
+      "author": "Redazione Storica",
+      "title": "Il primo motore a combustione interna di Benz",
+      "description": "Karl Benz presenta la sua automobile a motore a combustione interna, un evento che segnerà la nascita dell'industria automobilistica.",
+      "url": "https://it.wikipedia.org/wiki/Karl_Benz",
+      "urlToImage": "https://images.pexels.com/photos/1423584/pexels-photo-1423584.jpeg",
+      "publishedAt": "1886-01-29T00:00:00Z",
+      "content": "Con la prima automobile di Benz, il trasporto personale si trasforma, aprendo nuove opportunità economiche e sociali."
     },
     {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Greg Robb",
-      "title": "Regional Fed bank sees negative growth rate in first quarter, first contraction in three years - MarketWatch",
-      "description": "See the market action as investors weighed a tense meeting between Trump and Zelensky at the White House as well as the latest U.S. inflation data.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-set-for-cautious-start-ahead-of-key-pce-data",
-      "urlToImage": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-      "publishedAt": "2025-02-28T23:15:47Z",
-      "content": "The Atlanta Fed's GDPNow forecast for the first quarter was just revised to show a contraction at a 1.5% annual rate. This would be the first quarterly contraction in the economy since the first quar… [+327 chars]"
+      "author": "Redazione Storica",
+      "title": "La nascita della cinematografia con il cinema muto",
+      "description": "I fratelli Lumière rivoluzionano l'intrattenimento con la prima proiezione pubblica di un film in movimento.",
+      "url": "https://it.wikipedia.org/wiki/I_fratelli_Lumi%C3%A8re",
+      "urlToImage": "https://images.pexels.com/photos/3153883/pexels-photo-3153883.jpeg",
+      "publishedAt": "1895-12-28T00:00:00Z",
+      "content": "Il cinema, come forma d'arte e di intrattenimento, prende vita a Parigi grazie ai fratelli Lumière."
     },
     {
-      "source": {
-        "id": null,
-        "name": "Investopedia"
-      },
-      "author": "Andrew Kessel",
-      "title": "Intel Pushes Back Ohio Chipmaking Plant Opening by Four Years to 2030 - Investopedia",
-      "description": "Intel said it plans to push back the opening of two chipmaking facilities currently under construction in Ohio.",
-      "url": "https://www.investopedia.com/intel-pushes-back-ohio-chipmaking-plant-opening-by-four-years-to-2030-11688887",
-      "urlToImage": "https://www.investopedia.com/thmb/-ldznD8nUxHs5L2qdO3E4IUDBxA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-21553860181-4751d345d437437586ef96111ba449ad.jpg",
-      "publishedAt": "2025-02-28T22:56:14Z",
-      "content": "<ul><li>Intel said it plans to push back the opening of two chipmaking facilities currently under construction in Ohio. </li><li>The company's chief global operations officer said the move reflected … [+1494 chars]"
+      "author": "Redazione Storica",
+      "title": "Il telefono di Bell rivoluziona le comunicazioni",
+      "description": "Alexander Graham Bell completa con successo il primo telefono, aprendo la strada alla comunicazione telefonica globale.",
+      "url": "https://it.wikipedia.org/wiki/Alexander_Graham_Bell",
+      "urlToImage": "https://images.pexels.com/photos/3153895/pexels-photo-3153895.jpeg",
+      "publishedAt": "1876-03-10T00:00:00Z",
+      "content": "La comunicazione a lunga distanza diventa possibile grazie alla scoperta di Bell, che cambierà il modo di vivere e lavorare."
     },
     {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Peter Kafka",
-      "title": "Jeff Bezos' Washington Post moves might please Trump — but they're costing him money - Business Insider",
-      "description": "Jeff Bezos' moves seem like they are helping him win favor with Donald Trump. But they're going to cost his paper money, so why own it at all?",
-      "url": "https://www.businessinsider.com/jeff-bezos-washington-post-donald-trump-why-own-explained-2025-02",
-      "urlToImage": "https://i.insider.com/67c22aaf69253ccddf97f8be?width=1200&format=jpeg",
-      "publishedAt": "2025-02-28T21:54:00Z",
-      "content": "Let's stipulate that Jeff Bezos bought The Washington Post in 2013 for $250 million. So he can do anything he wants with it.\r\nLike ordering the paper's editors not to make a presidential endorsement.… [+3758 chars]"
+      "author": "Redazione Storica",
+      "title": "Il cinema sonoro cambia il mondo dell'intrattenimento",
+      "description": "Il primo film sonoro viene proiettato, segnando l'inizio di una nuova era nel mondo del cinema.",
+      "url": "https://it.wikipedia.org/wiki/Il_cantante_jazz",
+      "urlToImage": "https://images.pexels.com/photos/2976171/pexels-photo-2976171.jpeg",
+      "publishedAt": "1927-10-06T00:00:00Z",
+      "content": "Il cinema sonoro, grazie al film 'Il cantante jazz', cambia per sempre il modo di fare cinema."
     },
     {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Stan Choe",
-      "title": "Stock market today: Wall Street rallies, and Dow jumps 600 to make a dreary February not so bad - The Associated Press",
-      "description": "Wall Street closed its dreary February on a brighter note, as U.S. stock indexes rallied. The S&P 500 jumped 1.6% Friday to trim its loss for the month, enough to make it the worst since only December instead of since April. The Dow Jones Industrial Average c…",
-      "url": "https://apnews.com/article/stocks-markets-rates-tariffs-ai-a80355efea6fd7454df04d68cf3a79a1",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b6ae17b/2147483647/strip/true/crop/7227x4065+0+376/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdc%2Fae%2Fbbc4309c4ccaa22707e623de149f%2Ffa18afb49b9a4b089d2dfe5b428a997f",
-      "publishedAt": "2025-02-28T21:53:00Z",
-      "content": "NEW YORK (AP) U.S. stocks rallied on Friday to close out their dreary February on a brighter note.\r\nThe S&amp;P 500 jumped 1.6% to trim its loss for the month, enough to make it the worst only since … [+4917 chars]"
+      "author": "Redazione Storica",
+      "title": "La macchina da scrivere di Remington entra nelle case",
+      "description": "La Remington lancia la sua macchina da scrivere, dando vita all'era dell'automazione nell'ufficio e nelle aziende.",
+      "url": "https://it.wikipedia.org/wiki/Macchina_da_scrivere",
+      "urlToImage": "https://images.pexels.com/photos/2977552/pexels-photo-2977552.jpeg",
+      "publishedAt": "1873-03-01T00:00:00Z",
+      "content": "La macchina da scrivere diventa uno strumento essenziale per l'efficienza negli uffici e nelle comunicazioni."
     },
     {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Angrej Singh", 
-      "title": "Elon Musk on Rogan: Key moments from the 3-hour podcast interview - Axios",
-      "description": "Musk told Rogan DOGE is the \"first threat to bureaucracy\" and the \"revolution might actually succeed.\"",
-      "url": "https://www.axios.com/2025/02/28/musk-rogan-interview-doge-trump-epstein",
-      "urlToImage": "https://images.axios.com/SFmgyDf63MHoIsQFH34YD9yYf7Y=/0x0:6400x3600/1366x768/2025/02/28/1740775163144.jpg",
-      "publishedAt": "2025-02-28T21:28:15Z",
-      "content": "Elon Musk defended DOGE's actions, name dropped alleged Jeffery Epstein clients and weighed in on the \"Gulf of America\" standoff between the Trump administration and the Associated Press in an appear… [+3211 chars]"
+      "author": "Redazione Storica",
+      "title": "L'invenzione della fotocamera di Kodak",
+      "description": "Kodak lancia la prima fotocamera portatile, rendendo la fotografia accessibile a tutti.",
+      "url": "https://it.wikipedia.org/wiki/Kodak",
+      "urlToImage": "https://images.pexels.com/photos/2724741/pexels-photo-2724741.jpeg",
+      "publishedAt": "1888-09-04T00:00:00Z",
+      "content": "La fotocamera portatile di Kodak porta la fotografia nelle mani di chiunque, trasformando la documentazione visiva."
+    },
+    {
+      "author": "Redazione Storica",
+      "title": "L'invenzione del frigorifero moderno",
+      "description": "Il frigorifero domestico diventa una realtà, grazie ai progressi nell'ingegneria della refrigerazione.",
+      "url": "https://it.wikipedia.org/wiki/Frigorifero",
+      "urlToImage": "https://images.pexels.com/photos/2252770/pexels-photo-2252770.jpeg",
+      "publishedAt": "1913-06-01T00:00:00Z",
+      "content": "L'invenzione del frigorifero moderno porta cambiamenti nella conservazione del cibo e nella vita quotidiana."
+    },
+    {
+      "author": "Redazione Storica2",
+      "title": "L'invenzione del radar",
+      "description": "Il radar viene sviluppato e utilizzato durante la Seconda Guerra Mondiale, rivoluzionando la navigazione e la difesa.",
+      "url": "https://it.wikipedia.org/wiki/Radar",
+      "urlToImage": "https://images.pexels.com/photos/2599919/pexels-photo-2599919.jpeg",
+      "publishedAt": "1940-12-01T00:00:00Z",
+      "content": "Il radar cambia il modo di rilevare gli oggetti a distanza, una tecnologia che si rivelerà cruciale durante la guerra e nel mondo civile."
+    },
+    {
+      "author": "Redazione Storica2",
+      "title": "La nascita dei computer elettronici",
+      "description": "Nel 1941, Konrad Zuse sviluppa il primo computer elettronico programmabile, il Z3, aprendo la strada all'informatica.",
+      "url": "https://it.wikipedia.org/wiki/Konrad_Zuse",
+      "urlToImage": "https://images.pexels.com/photos/4144306/pexels-photo-4144306.jpeg",
+      "publishedAt": "1941-05-01T00:00:00Z",
+      "content": "Il Z3 di Zuse rappresenta il primo passo nell'evoluzione dei computer moderni, utilizzato inizialmente per calcoli militari."
+    },
+    {
+      "author": "Redazione Storica2",
+      "title": "La televisione a colori diventa realtà",
+      "description": "Nel 1954, la televisione a colori diventa disponibile, cambiando per sempre l'industria dell'intrattenimento e delle comunicazioni.",
+      "url": "https://it.wikipedia.org/wiki/Televisione_a_colori",
+      "urlToImage": "https://images.pexels.com/photos/3151869/pexels-photo-3151869.jpeg",
+      "publishedAt": "1954-06-25T00:00:00Z",
+      "content": "La televisione a colori segna una rivoluzione nel mondo dell'intrattenimento, con nuove opportunità per la pubblicità e la comunicazione."
+    },
+    {
+      "author": "Redazione Storica2",
+      "title": "Il primo calcolatore elettronico commerciale",
+      "description": "Nel 1951, viene lanciato il UNIVAC I, il primo computer elettronico commerciale, utilizzato per calcoli complessi e analisi dei dati.",
+      "url": "https://it.wikipedia.org/wiki/UNIVAC_I",
+      "urlToImage": "https://images.pexels.com/photos/3059669/pexels-photo-3059669.jpeg",
+      "publishedAt": "1951-03-31T00:00:00Z",
+      "content": "Il UNIVAC I segna la nascita dei computer come strumenti professionali e commerciali, destinati a migliorare l'efficienza delle aziende."
+    },
+    {
+      "author": "Redazione Storica2",
+      "title": "Il primo computer portatile",
+      "description": "Nel 1981, IBM lancia il primo personal computer portatile, il IBM 5100, dando inizio alla diffusione dei computer per uso personale.",
+      "url": "https://it.wikipedia.org/wiki/IBM_5100",
+      "urlToImage": "https://images.pexels.com/photos/4642311/pexels-photo-4642311.jpeg",
+      "publishedAt": "1981-09-01T00:00:00Z",
+      "content": "Il lancio del IBM 5100 rappresenta un passo fondamentale nell'evoluzione dei computer, rendendo la tecnologia accessibile ovunque."
+    },
+    {
+      "author": "Redazione Storica2",
+      "title": "La nascita della telefonia mobile",
+      "description": "Nel 1983, Motorola lancia il primo telefono cellulare commerciale, il Motorola DynaTAC, rivoluzionando le comunicazioni a distanza.",
+      "url": "https://it.wikipedia.org/wiki/Motorola_DynaTAC",
+      "urlToImage": "https://images.pexels.com/photos/2475993/pexels-photo-2475993.jpeg",
+      "publishedAt": "1983-04-03T00:00:00Z",
+      "content": "Il Motorola DynaTAC è il primo telefono cellulare, un dispositivo che cambierà per sempre le comunicazioni personali e professionali."
+    },
+    {
+      "author": "Redazione Storica2",
+      "title": "L'invenzione di Internet",
+      "description": "Nel 1989, Tim Berners-Lee sviluppa il World Wide Web, gettando le basi per la nascita di Internet come lo conosciamo oggi.",
+      "url": "https://it.wikipedia.org/wiki/World_Wide_Web",
+      "urlToImage": "https://images.pexels.com/photos/2475812/pexels-photo-2475812.jpeg",
+      "publishedAt": "1989-03-12T00:00:00Z",
+      "content": "Il World Wide Web segna l'inizio dell'era digitale moderna, creando una rete globale di informazioni accessibile a tutti."
+    },
+    {
+      "author": "Redazione Storica2",
+      "title": "L'era degli smartphone",
+      "description": "Nel 2007, Apple lancia l'iPhone, che diventa rapidamente il dispositivo mobile più iconico e rivoluziona il concetto di telefonia.",
+      "url": "https://it.wikipedia.org/wiki/IPhone",
+      "urlToImage": "https://images.pexels.com/photos/1591362/pexels-photo-1591362.jpeg",
+      "publishedAt": "2007-06-29T00:00:00Z",
+      "content": "L'iPhone segna l'inizio di una nuova era nei dispositivi mobili, combinando telefono, computer e intrattenimento in un unico dispositivo."
+    },
+    {
+      "author": "Redazione Storica2",
+      "title": "La nascita delle criptovalute",
+      "description": "Nel 2009, Satoshi Nakamoto crea Bitcoin, la prima criptovaluta decentralizzata, cambiando il mondo della finanza e dei pagamenti.",
+      "url": "https://it.wikipedia.org/wiki/Bitcoin",
+      "urlToImage": "https://images.pexels.com/photos/5900307/pexels-photo-5900307.jpeg",
+      "publishedAt": "2009-01-03T00:00:00Z",
+      "content": "Bitcoin segna l'inizio dell'era delle criptovalute, creando nuove opportunità e sfide nel mondo della finanza."
+    },
+    {
+      "author": "Redazione Storica2",
+      "title": "Il lancio di Google",
+      "description": "Nel 1998, Larry Page e Sergey Brin fondano Google, creando un motore di ricerca che cambierà per sempre il modo in cui accediamo alle informazioni.",
+      "url": "https://it.wikipedia.org/wiki/Google",
+      "urlToImage": "https://images.pexels.com/photos/2439229/pexels-photo-2439229.jpeg",
+      "publishedAt": "1998-09-04T00:00:00Z",
+      "content": "Google diventa il motore di ricerca dominante, trasformando il modo in cui esploriamo e interagiamo con il web."
     }
   ]
 }

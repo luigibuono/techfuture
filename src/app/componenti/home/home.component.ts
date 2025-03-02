@@ -1,4 +1,4 @@
-import { Component, ElementRef, Input, ViewChild } from '@angular/core';
+import { Component, ElementRef, HostListener, Input, ViewChild } from '@angular/core';
 import { NewsService } from 'src/app/news.service';
 
 @Component({
@@ -16,6 +16,10 @@ export class HomeComponent {
   currentIndex = 0;
   interval: any;
   @ViewChild('cardContainer') cardContainer!: ElementRef; // Riferimento al container delle card
+  @ViewChild('cardContainer2') cardContainer2!: ElementRef;
+  @ViewChild('cardContainerFocus') cardContainerFocus!: ElementRef;
+  @ViewChild('cardContainerPrimoPiano') cardContainerPrimoPiano!: ElementRef;
+
   cards = [
     { imageUrl: 'path-to-image1.jpg', alt: 'Image 1', title: 'Titolo 1', description: 'Descrizione breve 1' },
     { imageUrl: 'path-to-image2.jpg', alt: 'Image 2', title: 'Titolo 2', description: 'Descrizione breve 2' },
@@ -27,7 +31,6 @@ export class HomeComponent {
 
   ];
 
-  @ViewChild('cardContainer2') cardContainer2!: ElementRef; // Riferimento al container delle card
   cards2 = [
     { imageUrl: 'path-to-image1.jpg', alt: 'Image 1', title: 'Titolo 1', description: 'Descrizione breve 1' },
     { imageUrl: 'path-to-image2.jpg', alt: 'Image 2', title: 'Titolo 2', description: 'Descrizione breve 2' },
@@ -46,12 +49,64 @@ export class HomeComponent {
 
   firstBlockNews: any[] = [];  // I primi 6 articoli
   secondBlockNews: any[] = []; // I successivi 6 articoli
+  filteredNews = this.news.filter(article => article.author === 'Redazione Storica');
+  selectedAuthor: string = 'Redazione Storica';
+  isMouseDown = false;
+  startX = 0;
+  scrollLeft = 0;
+
+  @HostListener('mousedown', ['$event'])
+  onMouseDown(event: MouseEvent) {
+    if (this.cardContainerFocus.nativeElement.contains(event.target)) {
+      this.isMouseDown = true;
+      this.startX = event.pageX - this.cardContainerFocus.nativeElement.offsetLeft;
+      this.scrollLeft = this.cardContainerFocus.nativeElement.scrollLeft;
+    } else if (this.cardContainerPrimoPiano.nativeElement.contains(event.target)) {
+      this.isMouseDown = true;
+      this.startX = event.pageX - this.cardContainerPrimoPiano.nativeElement.offsetLeft;
+      this.scrollLeft = this.cardContainerPrimoPiano.nativeElement.scrollLeft;
+    } else if (this.cardContainer2.nativeElement.contains(event.target)) {
+      this.isMouseDown = true;
+      this.startX = event.pageX - this.cardContainer2.nativeElement.offsetLeft;
+      this.scrollLeft = this.cardContainer2.nativeElement.scrollLeft;
+    }
+  }
+
+  @HostListener('mousemove', ['$event'])
+  onMouseMove(event: MouseEvent) {
+    if (!this.isMouseDown) return;
+
+    let walk;
+    if (this.cardContainerFocus.nativeElement.contains(event.target)) {
+      const x = event.pageX - this.cardContainerFocus.nativeElement.offsetLeft;
+      walk = (x - this.startX) * 2; // La velocità del trascinamento (puoi modificarla)
+      this.cardContainerFocus.nativeElement.scrollLeft = this.scrollLeft - walk;
+    } else if (this.cardContainerPrimoPiano.nativeElement.contains(event.target)) {
+      const x = event.pageX - this.cardContainerPrimoPiano.nativeElement.offsetLeft;
+      walk = (x - this.startX) * 2;
+      this.cardContainerPrimoPiano.nativeElement.scrollLeft = this.scrollLeft - walk;
+    }else if (this.cardContainer2.nativeElement.contains(event.target)) {
+      const x = event.pageX - this.cardContainer2.nativeElement.offsetLeft;
+      walk = (x - this.startX) * 2;
+      this.cardContainer2.nativeElement.scrollLeft = this.scrollLeft - walk;
+    }
+  }
+
+  @HostListener('mouseup', ['$event'])
+  onMouseUp() {
+    this.isMouseDown = false;
+  }
+
+  @HostListener('mouseleave', ['$event'])
+  onMouseLeave() {
+    this.isMouseDown = false;
+  }
 
   ngOnInit() {
     this.getGNews();
     this.getNews();
     this.startInterval();
-
+    this.applyDefaultFilter();
   }
 
   getGNews(): void {
@@ -65,7 +120,18 @@ export class HomeComponent {
     this.newsService.getNews()
       .subscribe(data => {
         this.news = data.articles;
+        this.applyDefaultFilter();
       });
+  }
+
+  applyDefaultFilter() {
+    // Applica il filtro dopo che i dati sono stati caricati
+    this.filterByAuthor('Redazione Storica2');
+  }
+
+  filterByAuthor(author: string): void {
+    // Filtra gli articoli in base all'autore
+    this.filteredNews = this.news.filter(article => article.author === author);
   }
 
   startInterval() {
