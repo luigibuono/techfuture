@@ -91,6 +91,50 @@
       "urlToImage": "https://images.pexels.com/photos/2439229/pexels-photo-2439229.jpeg",
       "publishedAt": "1998-09-04T00:00:00Z",
       "content": "Google diventa il motore di ricerca dominante, trasformando il modo in cui esploriamo e interagiamo con il web."
+    },
+{      "author": "Redazione Storica",
+      "title": "L'intelligenza artificiale rivoluziona la tecnologia",
+      "description": "Con l'avvento delle reti neurali e del machine learning, l'IA sta trasformando ogni settore, dall'automazione alla sanità.",
+      "url": "https://it.wikipedia.org/wiki/Intelligenza_artificiale",
+      "urlToImage": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg",
+      "publishedAt": "2010-06-15T00:00:00Z",
+      "content": "L'IA ha fatto passi da gigante negli ultimi anni, migliorando il riconoscimento vocale, la guida autonoma e l'elaborazione delle immagini."
+    },
+    {
+      "author": "Redazione Storica",
+      "title": "Il primo uomo sulla Luna",
+      "description": "Il 20 luglio 1969, Neil Armstrong e Buzz Aldrin atterrano sulla Luna, segnando un momento storico per l'umanità.",
+      "url": "https://it.wikipedia.org/wiki/Allunaggio",
+      "urlToImage": "https://images.pexels.com/photos/23769/pexels-photo.jpg",
+      "publishedAt": "1969-07-20T20:17:00Z",
+      "content": "Con le parole 'Un piccolo passo per un uomo, un grande balzo per l'umanità', Neil Armstrong entra nella storia."
+    },
+    {
+      "author": "Redazione Storica",
+      "title": "L'invenzione del World Wide Web",
+      "description": "Tim Berners-Lee sviluppa il primo browser web e il linguaggio HTML, ponendo le basi di Internet come lo conosciamo oggi.",
+      "url": "https://it.wikipedia.org/wiki/Tim_Berners-Lee",
+      "urlToImage": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg",
+      "publishedAt": "1989-03-12T00:00:00Z",
+      "content": "Grazie al World Wide Web, il mondo diventa sempre più connesso, cambiando il modo di comunicare, lavorare e informarsi."
+    },
+    {
+      "author": "Redazione Storica",
+      "title": "Il lancio di Facebook e la rivoluzione dei social media",
+      "description": "Mark Zuckerberg lancia Facebook nel 2004, aprendo la strada alla diffusione globale dei social media.",
+      "url": "https://it.wikipedia.org/wiki/Facebook",
+      "urlToImage": "https://images.pexels.com/photos/267399/pexels-photo-267399.jpeg",
+      "publishedAt": "2004-02-04T00:00:00Z",
+      "content": "Facebook cambia il modo in cui le persone interagiscono online, dando vita a una nuova era della comunicazione digitale."
+    },
+    {
+      "author": "Redazione Storica",
+      "title": "L'arrivo delle auto elettriche di Tesla",
+      "description": "Con il lancio della Tesla Roadster nel 2008, l'industria automobilistica inizia a spostarsi verso l'energia elettrica.",
+      "url": "https://it.wikipedia.org/wiki/Tesla,_Inc.",
+      "urlToImage": "https://images.pexels.com/photos/479251/pexels-photo-479251.jpeg",
+      "publishedAt": "2008-02-01T00:00:00Z",
+      "content": "Tesla rivoluziona il settore automobilistico, dimostrando che i veicoli elettrici possono essere potenti, innovativi ed ecologici."
     }
   ]
 }
