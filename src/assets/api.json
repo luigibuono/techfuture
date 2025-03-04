@@ -4,12 +4,35 @@
   "articles": [
     {
       "author": "Redazione Storica",
-      "title": "Il primo11 aereo a motore solca i cieli",
-      "description": "I fratelli Wright effettuano il primo volo con un aereo a motore a Kitty Hawk, cambiando per sempre il trasporto aereo.",
-      "url": "https://it.wikipedia.org/wiki/I_fratelli_Wright",
-      "urlToImage": "https://images.pexels.com/photos/2642042/pexels-photo-2642042.jpeg",
+      "title": Le novità di Angular 19",
+      "description": "Incremental hydration
+Modalità di rendering a livello di percorso
+Linked signals
+Ripetizione dell’evento
+Modernizzazione del codice con Language Service
+Hot module replacement
+Standalone defaults
+Stato di Zoneless
+Stato degli strumenti di prova
+Sicurezza con Google
+Risorsa
+Time picker component
+Drag and drop",
+"url": "https://innovaformazione.net/le-novita-di-angular-19/", "urlToImage":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg", 
       "publishedAt": "1903-12-17T10:00:00Z",
-      "content": "Con il volo di Wright, si inaugura l'era dell'aviazione, destinata a rivoluzionare il trasporto e la guerra."
+      "content": "Incremental hydration
+Modalità di rendering a livello di percorso
+Linked signals
+Ripetizione dell’evento
+Modernizzazione del codice con Language Service
+Hot module replacement
+Standalone defaults
+Stato di Zoneless
+Stato degli strumenti di prova
+Sicurezza con Google
+Risorsa
+Time picker component
+Drag and drop bidimensionale",
     },
     {
       "author": "Redazione Storica",
