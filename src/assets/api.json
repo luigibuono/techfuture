@@ -2,54 +2,24 @@
   "status": "ok",
   "totalResults": 42,
   "articles": [
-
-
     {
       "author": "Redazione Storica",
-      "title": Le novità di Angular 19",
-      "description": "Incremental hydration
-Modalità di rendering a livello di percorso
-Linked signals
-Ripetizione dell’evento
-Modernizzazione del codice con Language Service
-Hot module replacement
-Standalone defaults
-Stato di Zoneless
-Stato degli strumenti di prova
-Sicurezza con Google
-Risorsa
-Time picker component
-Drag and drop",
-"url": "https://innovaformazione.net/le-novita-di-angular-19/", "urlToImage":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg", 
-      "publishedAt": "1903-12-17T10:00:00Z",
-      "content": "Incremental hydration
-Modalità di rendering a livello di percorso
-Linked signals
-Ripetizione dell’evento
-Modernizzazione del codice con Language Service
-Hot module replacement
-Standalone defaults
-Stato di Zoneless
-Stato degli strumenti di prova
-Sicurezza con Google
-Risorsa
-Time picker component
-Drag and drop bidimensionale",
+      "title": "Le novità di Angular 19",
+      "description": "Scopri le nuove funzionalità di Angular 19, tra cui Incremental Hydration, Linked Signals e miglioramenti nella sicurezza.",
+      "url": "https://innovaformazione.net/le-novita-di-angular-19/",
+      "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg",
+      "publishedAt": "2024-03-01T10:00:00Z",
+      "content": "Angular 19 introduce Incremental Hydration per migliorare il rendering, Linked Signals per la gestione dello stato e nuove ottimizzazioni della sicurezza."
     },
-
-
     {
       "author": "Redazione Storica",
-      "title": "React novità sulla versione 19",
-      "description": "React",
-"url":"https://tech.neosperience.com/blog/react-19",
-      "urlToImage": "Logo React SVG: https://commons.wikimedia.org/wiki/File:React-icon.svg 
-",
-      "publishedAt": "1879-10-22T00:00:00Z",
-      "content": "React."
+      "title": "React: le novità della versione 19",
+      "description": "React 19 introduce nuove funzionalità per il rendering e miglioramenti nelle performance.",
+      "url": "https://tech.neosperience.com/blog/react-19",
+      "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+      "publishedAt": "2024-02-15T08:30:00Z",
+      "content": "La versione 19 di React porta miglioramenti nelle prestazioni e nuove API per una gestione più efficiente dello stato dell'applicazione."
     },
-
-
     {
       "author": "Redazione Storica",
       "title": "La nascita della radio come strumento di comunicazione",
@@ -62,7 +32,7 @@ Drag and drop bidimensionale",
     {
       "author": "Redazione Storica",
       "title": "Il primo motore a combustione interna di Benz",
-      "description": "Karl Benz presenta la sua automobile a motore a combustione interna, un evento che segnerà la nascita dell'industria automobilistica.",
+      "description": "Karl Benz presenta la sua automobile a motore a combustione interna, segnando la nascita dell'industria automobilistica.",
       "url": "https://it.wikipedia.org/wiki/Karl_Benz",
       "urlToImage": "https://images.pexels.com/photos/1423584/pexels-photo-1423584.jpeg",
       "publishedAt": "1886-01-29T00:00:00Z",
@@ -79,96 +49,6 @@ Drag and drop bidimensionale",
     },
     {
       "author": "Redazione Storica",
-      "title": "Il telefono di Bell rivoluziona le comunicazioni",
-      "description": "Alexander Graham Bell completa con successo il primo telefono, aprendo la strada alla comunicazione telefonica globale.",
-      "url": "https://it.wikipedia.org/wiki/Alexander_Graham_Bell",
-      "urlToImage": "https://images.pexels.com/photos/3153895/pexels-photo-3153895.jpeg",
-      "publishedAt": "1876-03-10T00:00:00Z",
-      "content": "La comunicazione a lunga distanza diventa possibile grazie alla scoperta di Bell, che cambierà il modo di vivere e lavorare."
-    },
-    {
-      "author": "Redazione Storica",
-      "title": "Il cinema sonoro cambia il mondo dell'intrattenimento",
-      "description": "Il primo film sonoro viene proiettato, segnando l'inizio di una nuova era nel mondo del cinema.",
-      "url": "https://it.wikipedia.org/wiki/Il_cantante_jazz",
-      "urlToImage": "https://images.pexels.com/photos/2976171/pexels-photo-2976171.jpeg",
-      "publishedAt": "1927-10-06T00:00:00Z",
-      "content": "Il cinema sonoro, grazie al film 'Il cantante jazz', cambia per sempre il modo di fare cinema."
-    },
-    {
-      "author": "Redazione Storica",
-      "title": "La macchina da scrivere di Remington entra nelle case",
-      "description": "La Remington lancia la sua macchina da scrivere, dando vita all'era dell'automazione nell'ufficio e nelle aziende.",
-      "url": "https://it.wikipedia.org/wiki/Macchina_da_scrivere",
-      "urlToImage": "https://images.pexels.com/photos/2977552/pexels-photo-2977552.jpeg",
-      "publishedAt": "1873-03-01T00:00:00Z",
-      "content": "La macchina da scrivere diventa uno strumento essenziale per l'efficienza negli uffici e nelle comunicazioni."
-    },
-    {
-      "author": "Redazione Storica",
-      "title": "L'invenzione della fotocamera di Kodak",
-      "description": "Kodak lancia la prima fotocamera portatile, rendendo la fotografia accessibile a tutti.",
-      "url": "https://it.wikipedia.org/wiki/Kodak",
-      "urlToImage": "https://images.pexels.com/photos/2724741/pexels-photo-2724741.jpeg",
-      "publishedAt": "1888-09-04T00:00:00Z",
-      "content": "La fotocamera portatile di Kodak porta la fotografia nelle mani di chiunque, trasformando la documentazione visiva."
-    },
-    {
-      "author": "Redazione Storica",
-      "title": "L'invenzione del frigorifero moderno",
-      "description": "Il frigorifero domestico diventa una realtà, grazie ai progressi nell'ingegneria della refrigerazione.",
-      "url": "https://it.wikipedia.org/wiki/Frigorifero",
-      "urlToImage": "https://images.pexels.com/photos/2252770/pexels-photo-2252770.jpeg",
-      "publishedAt": "1913-06-01T00:00:00Z",
-      "content": "L'invenzione del frigorifero moderno porta cambiamenti nella conservazione del cibo e nella vita quotidiana."
-    },
-    {
-      "author": "Redazione Storica2",
-      "title": "L'invenzione del radar",
-      "description": "Il radar viene sviluppato e utilizzato durante la Seconda Guerra Mondiale, rivoluzionando la navigazione e la difesa.",
-      "url": "https://it.wikipedia.org/wiki/Radar",
-      "urlToImage": "https://images.pexels.com/photos/2599919/pexels-photo-2599919.jpeg",
-      "publishedAt": "1940-12-01T00:00:00Z",
-      "content": "Il radar cambia il modo di rilevare gli oggetti a distanza, una tecnologia che si rivelerà cruciale durante la guerra e nel mondo civile."
-    },
-    {
-      "author": "Redazione Storica2",
-      "title": "La nascita dei computer elettronici",
-      "description": "Nel 1941, Konrad Zuse sviluppa il primo computer elettronico programmabile, il Z3, aprendo la strada all'informatica.",
-      "url": "https://it.wikipedia.org/wiki/Konrad_Zuse",
-      "urlToImage": "https://images.pexels.com/photos/4144306/pexels-photo-4144306.jpeg",
-      "publishedAt": "1941-05-01T00:00:00Z",
-      "content": "Il Z3 di Zuse rappresenta il primo passo nell'evoluzione dei computer moderni, utilizzato inizialmente per calcoli militari."
-    },
-    {
-      "author": "Redazione Storica2",
-      "title": "La televisione a colori diventa realtà",
-      "description": "Nel 1954, la televisione a colori diventa disponibile, cambiando per sempre l'industria dell'intrattenimento e delle comunicazioni.",
-      "url": "https://it.wikipedia.org/wiki/Televisione_a_colori",
-      "urlToImage": "https://images.pexels.com/photos/3151869/pexels-photo-3151869.jpeg",
-      "publishedAt": "1954-06-25T00:00:00Z",
-      "content": "La televisione a colori segna una rivoluzione nel mondo dell'intrattenimento, con nuove opportunità per la pubblicità e la comunicazione."
-    },
-    {
-      "author": "Redazione Storica2",
-      "title": "Il primo calcolatore elettronico commerciale",
-      "description": "Nel 1951, viene lanciato il UNIVAC I, il primo computer elettronico commerciale, utilizzato per calcoli complessi e analisi dei dati.",
-      "url": "https://it.wikipedia.org/wiki/UNIVAC_I",
-      "urlToImage": "https://images.pexels.com/photos/3059669/pexels-photo-3059669.jpeg",
-      "publishedAt": "1951-03-31T00:00:00Z",
-      "content": "Il UNIVAC I segna la nascita dei computer come strumenti professionali e commerciali, destinati a migliorare l'efficienza delle aziende."
-    },
-    {
-      "author": "Redazione Storica2",
-      "title": "Il primo computer portatile",
-      "description": "Nel 1981, IBM lancia il primo personal computer portatile, il IBM 5100, dando inizio alla diffusione dei computer per uso personale.",
-      "url": "https://it.wikipedia.org/wiki/IBM_5100",
-      "urlToImage": "https://images.pexels.com/photos/4642311/pexels-photo-4642311.jpeg",
-      "publishedAt": "1981-09-01T00:00:00Z",
-      "content": "Il lancio del IBM 5100 rappresenta un passo fondamentale nell'evoluzione dei computer, rendendo la tecnologia accessibile ovunque."
-    },
-    {
-      "author": "Redazione Storica2",
       "title": "La nascita della telefonia mobile",
       "description": "Nel 1983, Motorola lancia il primo telefono cellulare commerciale, il Motorola DynaTAC, rivoluzionando le comunicazioni a distanza.",
       "url": "https://it.wikipedia.org/wiki/Motorola_DynaTAC",
@@ -177,7 +57,7 @@ Drag and drop bidimensionale",
       "content": "Il Motorola DynaTAC è il primo telefono cellulare, un dispositivo che cambierà per sempre le comunicazioni personali e professionali."
     },
     {
-      "author": "Redazione Storica2",
+      "author": "Redazione Storica",
       "title": "L'invenzione di Internet",
       "description": "Nel 1989, Tim Berners-Lee sviluppa il World Wide Web, gettando le basi per la nascita di Internet come lo conosciamo oggi.",
       "url": "https://it.wikipedia.org/wiki/World_Wide_Web",
@@ -186,7 +66,7 @@ Drag and drop bidimensionale",
       "content": "Il World Wide Web segna l'inizio dell'era digitale moderna, creando una rete globale di informazioni accessibile a tutti."
     },
     {
-      "author": "Redazione Storica2",
+      "author": "Redazione Storica",
       "title": "L'era degli smartphone",
       "description": "Nel 2007, Apple lancia l'iPhone, che diventa rapidamente il dispositivo mobile più iconico e rivoluziona il concetto di telefonia.",
       "url": "https://it.wikipedia.org/wiki/IPhone",
@@ -195,7 +75,7 @@ Drag and drop bidimensionale",
       "content": "L'iPhone segna l'inizio di una nuova era nei dispositivi mobili, combinando telefono, computer e intrattenimento in un unico dispositivo."
     },
     {
-      "author": "Redazione Storica2",
+      "author": "Redazione Storica",
       "title": "La nascita delle criptovalute",
       "description": "Nel 2009, Satoshi Nakamoto crea Bitcoin, la prima criptovaluta decentralizzata, cambiando il mondo della finanza e dei pagamenti.",
       "url": "https://it.wikipedia.org/wiki/Bitcoin",
@@ -204,7 +84,7 @@ Drag and drop bidimensionale",
       "content": "Bitcoin segna l'inizio dell'era delle criptovalute, creando nuove opportunità e sfide nel mondo della finanza."
     },
     {
-      "author": "Redazione Storica2",
+      "author": "Redazione Storica",
       "title": "Il lancio di Google",
       "description": "Nel 1998, Larry Page e Sergey Brin fondano Google, creando un motore di ricerca che cambierà per sempre il modo in cui accediamo alle informazioni.",
       "url": "https://it.wikipedia.org/wiki/Google",
