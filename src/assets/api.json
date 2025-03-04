@@ -2,15 +2,8 @@
   "status": "ok",
   "totalResults": 42,
   "articles": [
-    {
-      "author": "Redazione Storica",
-      "title": "Le novità di Angular 19",
-      "description": "Scopri le nuove funzionalità di Angular 19, tra cui Incremental Hydration, Linked Signals e miglioramenti nella sicurezza.",
-      "url": "https://innovaformazione.net/le-novita-di-angular-19/",
-      "urlToImage": ""
-      "publishedAt": "2024-03-01T10:00:00Z",
-      "content": "Angular 19 introduce Incremental Hydration per migliorare il rendering, Linked Signals per la gestione dello stato e nuove ottimizzazioni della sicurezza."
-    },
+    
+    
     {
       "author": "Redazione Storica",
       "title": "React: le novità della versione 19",
@@ -20,6 +13,7 @@
       "publishedAt": "2024-02-15T08:30:00Z",
       "content": "La versione 19 di React porta miglioramenti nelle prestazioni e nuove API per una gestione più efficiente dello stato dell'applicazione."
     },
+
     {
       "author": "Redazione Storica",
       "title": "La nascita della radio come strumento di comunicazione",
@@ -29,6 +23,7 @@
       "publishedAt": "1895-12-12T00:00:00Z",
       "content": "La radio diventa un punto di riferimento nella comunicazione globale, cambiando il modo in cui il mondo ascolta e si informa."
     },
+
     {
       "author": "Redazione Storica",
       "title": "Il primo motore a combustione interna di Benz",
@@ -38,6 +33,7 @@
       "publishedAt": "1886-01-29T00:00:00Z",
       "content": "Con la prima automobile di Benz, il trasporto personale si trasforma, aprendo nuove opportunità economiche e sociali."
     },
+
     {
       "author": "Redazione Storica",
       "title": "La nascita della cinematografia con il cinema muto",
@@ -47,6 +43,7 @@
       "publishedAt": "1895-12-28T00:00:00Z",
       "content": "Il cinema, come forma d'arte e di intrattenimento, prende vita a Parigi grazie ai fratelli Lumière."
     },
+
     {
       "author": "Redazione Storica",
       "title": "La nascita della telefonia mobile",
