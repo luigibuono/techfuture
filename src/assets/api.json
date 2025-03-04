@@ -36,12 +36,13 @@ Drag and drop bidimensionale",
     },
     {
       "author": "Redazione Storica",
-      "title": "La lampadina di Edison illumina il mondo",
-      "description": "Thomas Edison perfeziona la lampadina elettrica, portando la luce artificiale nelle case di milioni di persone.",
-      "url": "https://it.wikipedia.org/wiki/Thomas_Edison",
-      "urlToImage": "https://images.pexels.com/photos/2821346/pexels-photo-2821346.jpeg",
+      "title": "React novità sulla versione 19",
+      "description": "React",
+"url":"https://tech.neosperience.com/blog/react-19",
+      "urlToImage": "Logo React SVG: https://commons.wikimedia.org/wiki/File:React-icon.svg 
+",
       "publishedAt": "1879-10-22T00:00:00Z",
-      "content": "La lampadina di Edison segna un passo fondamentale nell'elettrificazione delle città."
+      "content": "React."
     },
     {
       "author": "Redazione Storica",
