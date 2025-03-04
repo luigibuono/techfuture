@@ -7,7 +7,7 @@
       "title": "Le novità di Angular 19",
       "description": "Scopri le nuove funzionalità di Angular 19, tra cui Incremental Hydration, Linked Signals e miglioramenti nella sicurezza.",
       "url": "https://innovaformazione.net/le-novita-di-angular-19/",
-      "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg",
+      "urlToImage": ""
       "publishedAt": "2024-03-01T10:00:00Z",
       "content": "Angular 19 introduce Incremental Hydration per migliorare il rendering, Linked Signals per la gestione dello stato e nuove ottimizzazioni della sicurezza."
     },
