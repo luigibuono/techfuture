@@ -16,7 +16,7 @@
     "title": "L'impatto dell'intelligenza artificiale sulla società moderna",
     "description": "Esplorazione delle applicazioni dell'intelligenza artificiale e del suo ruolo crescente in vari settori.",
     "url": "https://www.itismagazine.it/categorie-funzionali/home-page/i-migliori-progressi-tecnologici-dellultimo-decennio/",
-    "urlToImage": "https://www.itismagazine.it/wp-content/uploads/2023/10/intelligenza-artificiale.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2023-10-16T00:00:00Z",
     "content": "L'intelligenza artificiale e l'apprendimento automatico sono diventati essenziali in settori come i sistemi di raccomandazione, i veicoli autonomi e persino la diagnosi medica."
   },
@@ -25,7 +25,7 @@
     "title": "Le 20 innovazioni che hanno cambiato il mondo dal 2000 a oggi",
     "description": "Una panoramica delle principali innovazioni tecnologiche che hanno rivoluzionato il mondo negli ultimi due decenni.",
     "url": "https://am.pictet.com/pictetperte/tecnologia-e-innovazione/2023/le-20-innovazioni-che-hanno-cambiato-il-mondo-dal-2000-a-oggi",
-    "urlToImage": "https://am.pictet.com/pictetperte/tecnologia-e-innovazione/2023/innovazioni.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2023-03-01T00:00:00Z",
     "content": "È passato quasi un quarto di secolo dall'inizio del millennio. E mai come in questo periodo la tecnologia è stata rivoluzionaria. Ma quali sono state le innovazioni che hanno avuto maggiore impatto?"
   },
@@ -34,7 +34,7 @@
     "title": "Innovazione tecnologica: storia, definizione ed esempi di tecnologie che cambiano la vita",
     "description": "Un'analisi approfondita dell'evoluzione dell'innovazione tecnologica e delle sue implicazioni sulla società.",
     "url": "https://www.economyup.it/innovazione/innovazione-tecnologica-storia-definizione-ed-esempi-di-tecnologie-che-cambiano-la-vita/",
-    "urlToImage": "https://www.economyup.it/wp-content/uploads/2024/01/innovazione-tecnologica.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-01-10T00:00:00Z",
     "content": "Dall'avvento di Internet all'intelligenza artificiale, queste innovazioni hanno aperto nuove opportunità e sfide, ridefinendo le dinamiche sociali ed economiche globali."
   },
@@ -43,7 +43,7 @@
     "title": "Vent'anni di innovazione e passione per il Web e le tecnologie digitali",
     "description": "Riflessioni sulle principali innovazioni nel campo del web e delle tecnologie digitali negli ultimi vent'anni.",
     "url": "https://www.antonsessa.com/innovazione-web-tecnologie-digitali/",
-    "urlToImage": "https://www.antonsessa.com/wp-content/uploads/2024/02/innovazione-web.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-20T00:00:00Z",
     "content": "Dalla nascita dei social media all'e-commerce, queste innovazioni hanno cambiato il modo in cui interagiamo, lavoriamo e ci divertiamo."
   },
@@ -52,7 +52,7 @@
     "title": "I 10 fenomeni di internet che hanno cambiato la nostra vita in 10 anni",
     "description": "Un'analisi dei principali fenomeni di internet che hanno influenzato la nostra vita nell'ultimo decennio.",
     "url": "https://www.wired.it/internet/web/2019/12/20/internet-cambia-vita/",
-    "urlToImage": "https://www.wired.it/wp-content/uploads/2019/12/internet-fenomeni.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2019-12-20T00:00:00Z",
     "content": "Dai social network al cloud, dal 5G al mobile, dal caso Cambridge Analytica al boom degli attacchi informatici: ecco com'è cambiata la rete in dieci anni."
   },
@@ -62,7 +62,7 @@
     "title": "Elezioni Europee 2024: cosa aspettarsi",
     "description": "Le elezioni europee del 2024 porteranno cambiamenti significativi nel panorama politico dell'UE.",
     "url": "https://www.europarl.europa.eu/news/it",
-    "urlToImage": "https://www.europarl.europa.eu/resources/library/images/2023-06/european-parliament-building.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-20T08:00:00Z",
     "content": "Con l'avvicinarsi delle elezioni europee, gli esperti analizzano i possibili scenari per il futuro dell'Unione Europea."
   },
@@ -71,7 +71,7 @@
     "title": "Crisi climatica: i nuovi accordi della COP28",
     "description": "Alla conferenza delle Nazioni Unite sul clima si discute di nuove strategie per contrastare il cambiamento climatico.",
     "url": "https://unfccc.int/cop28",
-    "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Climate_change_protest.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-01-15T12:30:00Z",
     "content": "Leader mondiali si riuniscono per prendere decisioni cruciali sul futuro delle politiche ambientali globali."
   },
@@ -80,7 +80,7 @@
     "title": "Inflazione in Europa: dati aggiornati e previsioni",
     "description": "L'inflazione in Europa mostra segnali di rallentamento, ma gli esperti avvertono sui rischi futuri.",
     "url": "https://www.ecb.europa.eu/home/html/index.en.html",
-    "urlToImage": "https://www.ecb.europa.eu/press/photos/climate/popup/image.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-10T09:15:00Z",
     "content": "L'Unione Europea affronta il problema dell'inflazione con nuove strategie economiche."
   },
@@ -89,7 +89,7 @@
     "title": "Intelligenza Artificiale: nuove leggi in arrivo",
     "description": "L'Unione Europea lavora a una regolamentazione dell'Intelligenza Artificiale per garantire sicurezza ed etica.",
     "url": "https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
-    "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Artificial_Intelligence.jpg/800px-Artificial_Intelligence.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-01T14:45:00Z",
     "content": "L'AI Act dell'UE mira a regolamentare l'uso dell'Intelligenza Artificiale in diversi settori."
   },
@@ -98,7 +98,7 @@
     "title": "Conflitto in Ucraina: la situazione attuale",
     "description": "Un aggiornamento sugli sviluppi del conflitto tra Russia e Ucraina.",
     "url": "https://www.bbc.com/news/world-europe-60506682",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1234_600x400.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-28T10:00:00Z",
     "content": "La guerra in Ucraina continua a evolversi con nuove dichiarazioni e strategie diplomatiche."
   },
@@ -107,7 +107,7 @@
     "title": "Nuove scoperte nel vaccino contro il COVID-19",
     "description": "Gli scienziati sviluppano un nuovo vaccino più efficace contro le varianti del COVID-19.",
     "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
-    "urlToImage": "https://www.who.int/images/default-source/health-topics/coronavirus.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-05T11:20:00Z",
     "content": "Le nuove ricerche promettono vaccini più resistenti alle varianti emergenti del virus."
   },
@@ -118,7 +118,7 @@
     "title": "La NASA scopre un nuovo esopianeta simile alla Terra",
     "description": "Il telescopio spaziale James Webb ha identificato un esopianeta con condizioni simili a quelle terrestri.",
     "url": "https://www.nasa.gov/feature/james-webb-space-telescope-discovers-earth-like-exoplanet",
-    "urlToImage": "https://www.nasa.gov/sites/default/files/thumbnails/image/webb_telescope.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-18T14:00:00Z",
     "content": "Gli scienziati della NASA hanno confermato l'esistenza di un pianeta situato nella zona abitabile della sua stella."
   },
@@ -127,7 +127,7 @@
     "title": "Il cervello umano può rigenerarsi? Nuove scoperte sulla neurogenesi",
     "description": "Uno studio rivoluzionario suggerisce che il cervello adulto può creare nuovi neuroni.",
     "url": "https://www.nature.com/articles/d41586-024-00568-1",
-    "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-024-00568-1/d41586-024-00568-1_23971036.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-02T10:30:00Z",
     "content": "I ricercatori hanno identificato meccanismi che potrebbero favorire la crescita di nuovi neuroni nel cervello umano."
   },
@@ -136,7 +136,7 @@
     "title": "Energia dalle alghe: il futuro delle rinnovabili?",
     "description": "Gli scienziati stanno sviluppando biocarburanti sostenibili dalle alghe marine.",
     "url": "https://www.sciencedirect.com/science/article/pii/S1364032123002456",
-    "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/5/50/Algae-biofuel.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-01-25T09:15:00Z",
     "content": "Le alghe potrebbero rappresentare una soluzione innovativa per la produzione di energia rinnovabile e sostenibile."
   },
@@ -145,7 +145,7 @@
     "title": "Il primo trapianto di rene da un maiale geneticamente modificato a un essere umano",
     "description": "Un team di chirurghi ha completato con successo il primo trapianto di rene da maiale a uomo.",
     "url": "https://www.nytimes.com/2024/02/28/health/kidney-transplant-pig-human.html",
-    "urlToImage": "https://static01.nyt.com/images/2024/02/28/science/kidney-transplant/kidney-transplant-articleLarge.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-28T16:00:00Z",
     "content": "L'intervento è un passo avanti nella ricerca sui trapianti da animali a esseri umani per affrontare la carenza di organi."
   },
@@ -154,7 +154,7 @@
     "title": "La fusione nucleare è più vicina: nuovo record di energia prodotta",
     "description": "Un laboratorio europeo ha raggiunto un nuovo record nella produzione di energia da fusione nucleare.",
     "url": "https://www.iter.org/newsline/348",
-    "urlToImage": "https://www.iter.org/imgcache/images/images/medialibrary/2023-09-iter_plasma.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-01T11:45:00Z",
     "content": "L'energia da fusione nucleare potrebbe rappresentare una soluzione per un futuro più sostenibile."
   },
@@ -163,7 +163,7 @@
     "title": "Gli oceani si stanno riscaldando più velocemente del previsto",
     "description": "Uno studio pubblicato su Nature rivela che gli oceani assorbono più calore del previsto, con gravi conseguenze.",
     "url": "https://www.nature.com/articles/s41586-024-00645-9",
-    "urlToImage": "https://media.nature.com/lw1024/magazine-assets/s41586-024-00645-9/s41586-024-00645-9_23971036.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-04T08:20:00Z",
     "content": "I ricercatori avvertono che il riscaldamento degli oceani potrebbe accelerare il cambiamento climatico."
   },
@@ -173,7 +173,7 @@
     "title": "Apple lancia il Vision Pro: il futuro della realtà aumentata",
     "description": "Apple ha presentato il Vision Pro, un visore rivoluzionario per la realtà aumentata.",
     "url": "https://www.apple.com/newsroom/2024/02/apple-unveils-vision-pro/",
-    "urlToImage": "https://www.apple.com/newsroom/images/2024/02/vision-pro.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-10T14:00:00Z",
     "content": "Apple ridefinisce l'esperienza AR con il Vision Pro, offrendo interfacce innovative e immersive."
   },
@@ -182,7 +182,7 @@
     "title": "Google Gemini: l’intelligenza artificiale che sfida ChatGPT",
     "description": "Google ha rilasciato Gemini, un nuovo modello AI più avanzato di Bard e in competizione con ChatGPT.",
     "url": "https://blog.google/technology/ai/google-gemini-ai-release/",
-    "urlToImage": "https://storage.googleapis.com/gemini-ai/google-gemini.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-20T10:30:00Z",
     "content": "Gemini è il nuovo passo di Google nel campo dell'AI, con capacità multimodali e una maggiore comprensione del contesto."
   },
@@ -191,7 +191,7 @@
     "title": "Elon Musk presenta il primo chip Neuralink impiantato con successo",
     "description": "Neuralink ha completato il primo impianto cerebrale per testare la connessione tra uomo e macchina.",
     "url": "https://www.neuralink.com/blog/first-human-implant-success/",
-    "urlToImage": "https://www.neuralink.com/images/neuralink-chip.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-28T09:15:00Z",
     "content": "Il primo impianto Neuralink è stato eseguito con successo su un paziente umano, aprendo la strada alle interfacce neurali avanzate."
   },
@@ -200,7 +200,7 @@
     "title": "Microsoft annuncia il nuovo Copilot AI per Windows 11",
     "description": "Windows 11 introduce Copilot AI, un assistente avanzato basato sull’intelligenza artificiale.",
     "url": "https://blogs.windows.com/windows-insider/2024/03/01/windows-11-copilot-ai-announcement/",
-    "urlToImage": "https://blogs.windows.com/wp-content/uploads/copilot-windows-11.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-01T16:00:00Z",
     "content": "Copilot AI migliora la produttività e l’esperienza utente su Windows 11 con funzionalità intelligenti e automazioni."
   },
@@ -209,7 +209,7 @@
     "title": "Tesla ottiene l'approvazione per la guida completamente autonoma",
     "description": "Tesla ha ricevuto il via libera per testare veicoli a guida autonoma di livello 5 su strada.",
     "url": "https://www.tesla.com/blog/tesla-full-self-driving-approved-2024",
-    "urlToImage": "https://www.tesla.com/sites/default/files/tesla-autonomous.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-03T11:45:00Z",
     "content": "Il sistema di guida autonoma di Tesla raggiunge un nuovo traguardo con l’approvazione per l’uso pubblico."
   },
@@ -218,7 +218,7 @@
     "title": "Sony svela la nuova PlayStation 6: caratteristiche e data di uscita",
     "description": "Sony ha annunciato PlayStation 6 con hardware potenziato e nuove funzionalità innovative.",
     "url": "https://www.playstation.com/news/ps6-announcement-2024",
-    "urlToImage": "https://www.playstation.com/images/ps6-reveal.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-04T08:20:00Z",
     "content": "La nuova PlayStation 6 offre grafica migliorata, tempi di caricamento ridotti e una nuova esperienza di gioco."
   },
@@ -228,7 +228,7 @@
     "title": "L'inflazione in Europa scende sotto il 3%: segnali positivi per l’economia",
     "description": "L'Eurostat conferma che l'inflazione nell'Eurozona è scesa sotto il 3% per la prima volta dal 2021.",
     "url": "https://ec.europa.eu/eurostat/news/economy-inflation-2024",
-    "urlToImage": "https://ec.europa.eu/eurostat/images/inflazione-2024.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-01T10:00:00Z",
     "content": "Il calo dell’inflazione potrebbe permettere alla BCE di rivedere le sue politiche monetarie nei prossimi mesi."
   },
@@ -237,7 +237,7 @@
     "title": "La crescita del PIL italiano supera le aspettative nel 2024",
     "description": "L’Istat ha rivisto al rialzo la crescita del PIL italiano, che supera il 1,2% nel primo trimestre del 2024.",
     "url": "https://www.istat.it/economia-pil-2024",
-    "urlToImage": "https://www.istat.it/images/pil-crescita.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-02T09:30:00Z",
     "content": "I settori della manifattura e del turismo trainano l’economia italiana, portando una crescita superiore alle aspettative."
   },
@@ -246,7 +246,7 @@
     "title": "Wall Street registra il miglior trimestre dal 2020",
     "description": "Gli indici di Wall Street chiudono il trimestre con guadagni record grazie al settore tecnologico e AI.",
     "url": "https://www.nasdaq.com/news/wall-street-q1-2024",
-    "urlToImage": "https://www.nasdaq.com/images/wallstreet-2024.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-03T15:45:00Z",
     "content": "Il Nasdaq guida la crescita con un aumento dell'8%, trainato dalle aziende di intelligenza artificiale e semiconduttori."
   },
@@ -255,7 +255,7 @@
     "title": "La Cina taglia i tassi di interesse per stimolare la crescita",
     "description": "La Banca Popolare Cinese ha abbassato i tassi di interesse per incentivare la ripresa economica post-pandemia.",
     "url": "https://www.reuters.com/markets/china-rate-cut-2024",
-    "urlToImage": "https://www.reuters.com/images/china-economy.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-04T12:20:00Z",
     "content": "Con la riduzione del tasso di riferimento, la Cina cerca di sostenere il mercato immobiliare e il settore industriale."
   },
@@ -264,7 +264,7 @@
     "title": "Bitcoin supera i 60.000$ con l'approvazione degli ETF spot",
     "description": "L’approvazione degli ETF spot su Bitcoin ha portato il valore della criptovaluta oltre i 60.000$.",
     "url": "https://www.coindesk.com/news/bitcoin-etf-approval-2024",
-    "urlToImage": "https://www.coindesk.com/images/bitcoin-2024.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-05T14:10:00Z",
     "content": "L'interesse istituzionale per Bitcoin cresce grazie agli ETF spot, con investitori sempre più attivi nel settore."
   },
@@ -273,7 +273,7 @@
     "title": "L’occupazione in Italia cresce del 2% nel 2024",
     "description": "I dati Istat mostrano un aumento del 2% dell’occupazione in Italia, con il settore digitale in forte espansione.",
     "url": "https://www.istat.it/news/occupazione-italia-2024",
-    "urlToImage": "https://www.istat.it/images/occupazione-2024.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-06T08:50:00Z",
     "content": "L’occupazione in Italia continua a crescere, soprattutto nei settori legati alla tecnologia e all’innovazione."
   },
@@ -283,7 +283,7 @@
     "title": "Champions League: Il Real Madrid avanza ai quarti di finale",
     "description": "Il Real Madrid supera il Manchester City con una vittoria spettacolare ai rigori.",
     "url": "https://www.uefa.com/uefachampionsleague/news/real-madrid-quarti-2024",
-    "urlToImage": "https://www.uefa.com/images/real-madrid-2024.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-07T22:30:00Z",
     "content": "Il Real Madrid dimostra ancora una volta di essere una delle squadre più forti in Europa con una vittoria sofferta ai rigori."
   },
@@ -292,7 +292,7 @@
     "title": "Formula 1: Verstappen domina il GP del Bahrain",
     "description": "Max Verstappen vince la prima gara della stagione con un margine di 10 secondi sul secondo classificato.",
     "url": "https://www.formula1.com/news/verstappen-bahrain-2024",
-    "urlToImage": "https://www.formula1.com/images/verstappen-2024.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-08T18:00:00Z",
     "content": "Il pilota olandese continua a dimostrare la sua superiorità con una performance impeccabile nel primo GP dell'anno."
   },
@@ -301,7 +301,7 @@
     "title": "Tennis: Jannik Sinner trionfa agli Australian Open",
     "description": "L'azzurro Jannik Sinner vince il suo primo Slam battendo Medvedev in finale.",
     "url": "https://www.atptour.com/news/sinner-australian-open-2024",
-    "urlToImage": "https://www.atptour.com/images/sinner-2024.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-01-28T10:45:00Z",
     "content": "Sinner entra nella storia del tennis italiano diventando il primo azzurro a vincere gli Australian Open."
   },
@@ -310,7 +310,7 @@
     "title": "Calcio: L'Italia si prepara per Euro 2024",
     "description": "Mancini annuncia i convocati per il torneo europeo, con molte sorprese tra i giovani talenti.",
     "url": "https://www.figc.it/news/italia-euro-2024-convocati",
-    "urlToImage": "https://www.figc.it/images/italia-2024.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-09T12:15:00Z",
     "content": "L'Italia punta su una squadra giovane e ambiziosa per difendere il titolo conquistato nel 2021."
   },
@@ -319,7 +319,7 @@
     "title": "NBA: LeBron James supera i 40.000 punti in carriera",
     "description": "LeBron James diventa il primo giocatore NBA a superare i 40.000 punti totali.",
     "url": "https://www.nba.com/news/lebron-40000-points",
-    "urlToImage": "https://www.nba.com/images/lebron-2024.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-10T05:30:00Z",
     "content": "Un traguardo storico per LeBron James, che consolida la sua posizione tra le leggende del basket."
   },
@@ -328,7 +328,7 @@
     "title": "Ciclismo: Pogacar vince la Milano-Sanremo 2024",
     "description": "Lo sloveno Tadej Pogacar domina la classica di primavera con un attacco spettacolare sul Poggio.",
     "url": "https://www.gazzetta.it/ciclismo/news/pogacar-milano-sanremo-2024",
-    "urlToImage": "https://www.gazzetta.it/images/pogacar-2024.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-11T14:00:00Z",
     "content": "Pogacar dimostra ancora una volta di essere uno dei ciclisti più forti della sua generazione."
   },
@@ -338,7 +338,7 @@
     "title": "Il Rinascimento italiano: Un viaggio nell'arte e nella cultura",
     "description": "Scopri come il Rinascimento italiano ha trasformato l'arte, la scienza e la filosofia.",
     "url": "https://www.michelangelo.org/renaissance-italy/",
-    "urlToImage": "https://www.michelangelo.org/images/renaissance-italy.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-25T10:00:00Z",
     "content": "Un'epoca di grande fermento culturale che ha visto i grandi maestri come Leonardo da Vinci, Michelangelo e Raffaello rivoluzionare il mondo dell'arte."
   },
@@ -347,7 +347,7 @@
     "title": "L'influenza della letteratura latinoamericana sulla cultura mondiale",
     "description": "Esplora come autori come Gabriel García Márquez e Jorge Luis Borges hanno influenzato la narrativa globale.",
     "url": "https://www.britannica.com/latin-american-literature",
-    "urlToImage": "https://www.britannica.com/images/latin-american-literature.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-01T08:00:00Z",
     "content": "La letteratura latinoamericana ha dato vita a una narrativa unica, con una fusione di realismo magico, poesia e storia sociale che ha conquistato il mondo."
   },
@@ -356,7 +356,7 @@
     "title": "Il Futurismo italiano: Un movimento che ha cambiato il volto dell'arte",
     "description": "Il Futurismo è stato uno dei movimenti più innovativi e controversi dell'arte moderna, con una grande influenza anche nel design e nella moda.",
     "url": "https://www.futurism.org/italian-art/",
-    "urlToImage": "https://www.futurism.org/images/futurism-art.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-05T12:30:00Z",
     "content": "Il Futurismo ha rotto con il passato, celebrando la velocità, la tecnologia e il dinamismo, e ha lasciato un segno profondo nella cultura moderna."
   },
@@ -365,7 +365,7 @@
     "title": "La nascita della commedia dell'arte in Italia",
     "description": "Scopri le origini della commedia dell'arte, un tipo di teatro popolare che ha influenzato il teatro europeo per secoli.",
     "url": "https://www.commedia-arte.com/history-italy/",
-    "urlToImage": "https://www.commedia-arte.com/images/history-commedia-arte.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-06T14:15:00Z",
     "content": "La commedia dell'arte ha reso celebre l'uso di maschere e improvvisazione, dando vita a personaggi iconici che ancora oggi sono protagonisti della cultura teatrale."
   },
@@ -374,7 +374,7 @@
     "title": "Il cinema italiano: Da Fellini a Sorrentino",
     "description": "Un'analisi del cinema italiano attraverso le opere di registi leggendari come Federico Fellini e Paolo Sorrentino.",
     "url": "https://www.italian-cinema.com/fellini-sorrentino",
-    "urlToImage": "https://www.italian-cinema.com/images/fellini-sorrentino.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-07T16:00:00Z",
     "content": "Il cinema italiano ha influenzato il panorama internazionale, con film che spaziano dalla commedia all'arte, dalle storie drammatiche a quelle più visionarie."
   },
@@ -383,7 +383,7 @@
     "title": "I capolavori dell'arte contemporanea: Un viaggio nel futuro",
     "description": "L'arte contemporanea offre una riflessione sulle sfide del nostro tempo, tra nuove tecniche, concetti e temi.",
     "url": "https://www.art-contemporary.com/masterpieces",
-    "urlToImage": "https://www.art-contemporary.com/images/contemporary-art.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-10T09:30:00Z",
     "content": "Dall'arte concettuale alla street art, l'arte contemporanea riflette le trasformazioni sociali e politiche del nostro tempo."
   },
@@ -393,7 +393,7 @@
     "title": "I benefici della meditazione sulla salute mentale",
     "description": "Scopri come la meditazione può ridurre lo stress, migliorare la concentrazione e favorire il benessere mentale.",
     "url": "https://www.psychologytoday.com/articles/benefits-of-meditation-mental-health",
-    "urlToImage": "https://www.psychologytoday.com/images/meditation-benefits.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-01-20T11:00:00Z",
     "content": "La meditazione è uno strumento potente per migliorare la salute mentale, riducendo l'ansia e aumentando la consapevolezza."
   },
@@ -402,7 +402,7 @@
     "title": "Alimentazione sana: Come le diete equilibrate influenzano la nostra vita",
     "description": "Esplora l'importanza di una dieta equilibrata per la salute fisica e mentale e come fare scelte alimentari consapevoli.",
     "url": "https://www.healthline.com/nutrition/balanced-diet",
-    "urlToImage": "https://www.healthline.com/images/balanced-diet.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-10T09:30:00Z",
     "content": "Una dieta sana è essenziale per il benessere generale. Mangiare in modo equilibrato aiuta a prevenire malattie e promuove un sano invecchiamento."
   },
@@ -411,7 +411,7 @@
     "title": "Il sonno e la sua importanza per la salute del corpo",
     "description": "Il sonno è fondamentale per il recupero fisico e mentale: scopri perché una buona qualità del sonno è essenziale.",
     "url": "https://www.sleepfoundation.org/articles/importance-of-sleep",
-    "urlToImage": "https://www.sleepfoundation.org/images/importance-of-sleep.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-15T07:45:00Z",
     "content": "Il sonno è vitale per il recupero del corpo e per la salute mentale. Non dormire abbastanza può avere effetti negativi sul sistema immunitario e sul nostro umore."
   },
@@ -420,7 +420,7 @@
     "title": "Esercizio fisico: Un alleato potente contro le malattie croniche",
     "description": "L'esercizio fisico regolare è un pilastro della salute preventiva, riducendo il rischio di malattie croniche come diabete e malattie cardiache.",
     "url": "https://www.cdc.gov/physical-activity/basics/index.htm",
-    "urlToImage": "https://www.cdc.gov/images/exercise-benefits.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-18T08:00:00Z",
     "content": "L'esercizio fisico migliora la salute cardiovascolare, il metabolismo e aiuta nella gestione di malattie croniche. È un'arma potente contro l'invecchiamento precoce."
   },
@@ -429,7 +429,7 @@
     "title": "Il ruolo della salute mentale nella prevenzione delle malattie fisiche",
     "description": "La connessione tra salute mentale e fisica è forte: scopri come prendersi cura della propria mente può prevenire malattie fisiche.",
     "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response",
-    "urlToImage": "https://www.who.int/images/mental-health.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-22T06:30:00Z",
     "content": "Investire nella salute mentale può prevenire l'insorgere di malattie fisiche, ridurre lo stress e migliorare la qualità della vita."
   },
@@ -438,7 +438,7 @@
     "title": "La prevenzione del cancro: Strategie e abitudini di vita sane",
     "description": "Scopri come abitudini di vita sane possono ridurre il rischio di sviluppare il cancro e migliorare il benessere complessivo.",
     "url": "https://www.cancer.org/healthy-living",
-    "urlToImage": "https://www.cancer.org/images/prevention-cancer.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-01T10:00:00Z",
     "content": "L'alimentazione sana, l'attività fisica regolare e la riduzione dei fattori di rischio sono essenziali nella prevenzione del cancro."
   },
@@ -448,7 +448,7 @@
     "title": "Le meraviglie di Kyoto: tra templi e giardini zen",
     "description": "Kyoto è una delle città più affascinanti del Giappone, famosa per i suoi templi storici, i giardini zen e la tradizione culturale.",
     "url": "https://www.japan.travel/en/destinations/kinki/kyoto/",
-    "urlToImage": "https://www.japan.travel/media/kyoto-temples.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-01-25T10:00:00Z",
     "content": "Kyoto offre una combinazione unica di spiritualità, storia e bellezza naturale, ed è un must per chi visita il Giappone."
   },
@@ -457,7 +457,7 @@
     "title": "Alla scoperta delle isole greche: un viaggio tra storia e mare cristallino",
     "description": "Le isole greche sono una destinazione ideale per chi cerca paesaggi mozzafiato, cultura millenaria e acque cristalline.",
     "url": "https://www.visitgreece.gr/en/greek_islands",
-    "urlToImage": "https://www.visitgreece.gr/images/island-greece.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-05T09:30:00Z",
     "content": "Ogni isola greca ha la sua unicità: dalle rovine storiche di Creta alle splendide spiagge di Mykonos, è un viaggio che non si dimentica facilmente."
   },
@@ -466,7 +466,7 @@
     "title": "Esplorando la Patagonia: il paradiso naturale del sud America",
     "description": "La Patagonia è un luogo selvaggio, ricco di paesaggi mozzafiato, montagne, ghiacciai e fauna unica.",
     "url": "https://www.patagonia.travel/",
-    "urlToImage": "https://www.patagonia.travel/images/patagonia.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-12T08:15:00Z",
     "content": "Scopri la maestosità dei ghiacciai e delle montagne della Patagonia, una destinazione perfetta per gli amanti della natura e dell'avventura."
   },
@@ -475,7 +475,7 @@
     "title": "Tour delle capitali europee: storia, cultura e divertimento",
     "description": "Un tour delle principali capitali europee offre una combinazione perfetta di storia, cultura e modernità.",
     "url": "https://www.european-cities.com/",
-    "urlToImage": "https://www.european-cities.com/images/cities-tour.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-20T07:30:00Z",
     "content": "Dalle strade storiche di Roma, alla maestosità di Parigi, fino alla vivacità di Berlino, ogni capitale europea ha un'atmosfera unica da scoprire."
   },
@@ -484,7 +484,7 @@
     "title": "Viaggio a Bali: tra spiritualità e spiagge paradisiache",
     "description": "Bali è una destinazione che combina bellezze naturali con una forte tradizione spirituale, ed è famosa per le sue spiagge e templi.",
     "url": "https://www.balitourismboard.org/",
-    "urlToImage": "https://www.balitourismboard.org/images/bali-beach.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-28T09:00:00Z",
     "content": "Bali è la meta ideale per chi cerca tranquillità spirituale e divertimento sotto il sole, con le sue spiagge da sogno e templi storici."
   },
@@ -493,7 +493,7 @@
     "title": "Safari in Kenya: un'esperienza indimenticabile nella savana",
     "description": "Il safari in Kenya è un'esperienza unica per osservare la fauna selvatica nel suo habitat naturale e vivere la bellezza della savana.",
     "url": "https://www.magicalkenya.com/",
-    "urlToImage": "https://www.magicalkenya.com/images/kenya-safari.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-05T08:45:00Z",
     "content": "Vivi l'emozione di un safari attraverso il Masai Mara e il Parco Nazionale di Amboseli, dove si possono ammirare elefanti, leoni e altri animali selvatici."
   },
@@ -503,7 +503,7 @@
     "title": "Il ritorno di Adele: la magia del suo nuovo album",
     "description": "Adele è tornata con un nuovo album che emoziona i fan di tutto il mondo, con ballate che toccano il cuore.",
     "url": "https://www.adele.com/",
-    "urlToImage": "https://www.adele.com/images/adele-new-album.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-01-15T09:00:00Z",
     "content": "Il nuovo album di Adele segna un ritorno trionfale, con testi intensi e una voce inconfondibile che affonda nel cuore di ogni ascoltatore."
   },
@@ -512,7 +512,7 @@
     "title": "L'influenza del rock psichedelico sulla musica moderna",
     "description": "Il rock psichedelico ha avuto un impatto enorme sulla musica contemporanea, ispirando generazioni di artisti.",
     "url": "https://www.rollingstone.com/music/rock-psychedelic/",
-    "urlToImage": "https://www.rollingstone.com/images/psychedelic-rock.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-01T08:00:00Z",
     "content": "Dai Pink Floyd ai Tame Impala, il rock psichedelico ha modellato suoni e tendenze, continuando a influenzare la musica moderna."
   },
@@ -521,7 +521,7 @@
     "title": "La musica elettronica: una rivoluzione sonora del 21° secolo",
     "description": "La musica elettronica ha preso piede negli ultimi decenni, creando nuovi generi e definendo la scena musicale contemporanea.",
     "url": "https://www.electronicmusic.com/",
-    "urlToImage": "https://www.electronicmusic.com/images/electronic-music.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-10T07:30:00Z",
     "content": "Dai club underground alle arene dei festival, la musica elettronica ha conquistato il mondo, influenzando ogni genere musicale."
   },
@@ -530,7 +530,7 @@
     "title": "Jazz e improvvisazione: il cuore della musica afroamericana",
     "description": "Il jazz è più di un genere musicale, è una forma d'arte che celebra la libertà e l'improvvisazione.",
     "url": "https://www.jazz.org/",
-    "urlToImage": "https://www.jazz.org/images/jazz.jpg",
+    "urlToImage": "assets/LB.png",,
     "publishedAt": "2024-02-18T09:45:00Z",
     "content": "Il jazz è una delle forme musicali più influenti al mondo, dove l'improvvisazione e la creatività sono alla base di ogni performance."
   },
@@ -539,7 +539,7 @@
     "title": "L'era dell'hip hop: cultura e rivoluzione sociale",
     "description": "L'hip hop è una cultura globale che unisce musica, danza e arte visiva, influenzando la società e la politica.",
     "url": "https://www.hiphop.com/",
-    "urlToImage": "https://www.hiphop.com/images/hiphop-culture.jpg",
+   "urlToImage": "assets/LB.png",
     "publishedAt": "2024-02-25T08:30:00Z",
     "content": "Dalla sua nascita nel Bronx, l'hip hop è diventato uno dei movimenti culturali più potenti al mondo, cambiando il volto della musica e della società."
   },
@@ -548,7 +548,7 @@
     "title": "I grandi compositori di musica classica: da Mozart a Beethoven",
     "description": "La musica classica ha lasciato un'impronta indelebile nella storia della musica occidentale, con compositori che hanno definito epoche.",
     "url": "https://www.classicalmusic.com/",
-    "urlToImage": "https://www.classicalmusic.com/images/classical-music.jpg",
+    "urlToImage": "assets/LB.png",
     "publishedAt": "2024-03-02T08:00:00Z",
     "content": "Mozart, Beethoven, e Bach sono solo alcuni dei grandi compositori che hanno scritto la colonna sonora della nostra civiltà, con opere senza tempo."
   } 
