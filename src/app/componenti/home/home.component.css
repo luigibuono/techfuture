@@ -150,3 +150,11 @@ a{
   white-space: normal!important; /* Fa in modo che il testo si rompa normalmente */
 }
 
+.card-title {
+    margin-bottom: var(--bs-card-title-spacer-y);
+    color: var(--bs-card-title-color);
+    word-wrap: break-word!important; /* Permette al testo di andare a capo quando necessario */
+    hyphens: auto!important; /* Aggiunge eventuali sillabazioni per parole lunghe */
+    white-space: normal!important; /* Fa in modo che il testo si rompa normalmente */
+}
+
