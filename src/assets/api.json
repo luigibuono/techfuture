@@ -10,6 +10,15 @@
   "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
   "publishedAt": "2020-01-15T00:00:00Z",
   "content": "Nell'ultimo decennio, gli smartphone hanno traslato la loro funzione principale diventando a tutti gli effetti dei piccoli computer. Non solo chiamate vocali e comunicazioni testuali, gli smartphone ora offrono di tutto e di più, video, foto, mappe, musica e svariati servizi."
+  },
+    {
+  "author": "Informatica",
+  "title": "Fondamenta di SQL: una guida introduttiva",
+  "description": "Introduzione al linguaggio SQL, essenziale per la gestione e manipolazione dei dati nei database relazionali.",
+  "url": "https://www.w3schools.com/sql/",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+  "publishedAt": "2024-03-06T00:00:00Z",
+  "content": "SQL (Structured Query Language) è il linguaggio standard per interagire con i database relazionali. Viene utilizzato per eseguire operazioni CRUD (Create, Read, Update, Delete) sui dati. In questo articolo esploreremo le operazioni fondamentali come SELECT, INSERT, UPDATE e DELETE, e come queste permettano di gestire facilmente i dati all'interno di un database."
 },
 {
   "author": "Informatica",
