@@ -143,3 +143,10 @@ a{
   width: 100%;
   height: 250px;
 }
+
+.card-text {
+  word-wrap: break-word!important; /* Permette al testo di andare a capo quando necessario */
+  hyphens: auto!important; /* Aggiunge eventuali sillabazioni per parole lunghe */
+  white-space: normal!important; /* Fa in modo che il testo si rompa normalmente */
+}
+
