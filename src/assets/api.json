@@ -2,69 +2,67 @@
   "status": "ok",
   "totalResults": 60,
   "articles": [
-   {
+  {
   "author": "Informatica",
-  "title": "L'1evoluzione degli smartphone nell'ultimo decennio1",
-  "description": "Analisi di come gli smartphone si siano trasformati in dispositivi multifunzionali, influenzando vari aspetti della vita quotidiana.",
-  "url": "https://www.fastweb.it/fastweb-plus/digital-magazine/quali-tecnologie-hanno-cambiato-il-decennio-2010-2019/",
+  "title": "I linguaggi di programmazione più usati oggi",
+  "url": "https://blog.geekandjob.com/linguaggi-programmazione-richiesti/",
   "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
-  "publishedAt": "2020-01-15T00:00:00Z",
-  "content": "Nell'ultimo decennio, gli smartphone hanno traslato la loro funzione principale diventando a tutti gli effetti dei piccoli computer. Non solo chiamate vocali e comunicazioni testuali, gli smartphone ora offrono di tutto e di più, video, foto, mappe, musica e svariati servizi."
+  "publishedAt": "2024-03-09T10:00:00Z"
   },
-    {
+  {
+    "author": "Informatica",
+    "title": "I framework più utilizzati dagli sviluppatori",
+    "url": "https://reteinformaticalavoro.it/blog/framework-cosa-sono-e-quali-dominano-le-classifiche/",
+    "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+    "publishedAt": "2024-03-09T10:00:00Z"
+  },
+  {
+    "author": "Informatica",
+    "title": "I web server più utilizzati nel mondo",
+    "url": "https://kinsta.com/blog/web-server-software/",
+    "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+    "publishedAt": "2024-03-09T10:00:00Z"
+  },
+  {
+    "author": "Informatica",
+    "title": "Le migliori piattaforme di hosting web",
+    "url": "https://www.hostinger.com/it/tutorial/miglior-hosting",
+    "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+    "publishedAt": "2024-03-09T10:00:00Z"
+  },
+  {
   "author": "Informatica",
-  "title": "Fondamenta di SQL: una guida introduttiva",
-  "description": "Introduzione al linguaggio SQL, essenziale per la gestione e manipolazione dei dati nei database relazionali.",
-  "url": "https://www.w3schools.com/sql/",
+  "title": "SQL: Il linguaggio essenziale per la gestione dei dati",
+  "url": "https://mat521.unime.it/~gorgone/progettazione_fisica.pdf",
   "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
-  "publishedAt": "2024-03-06T00:00:00Z",
-  "content": "SQL (Structured Query Language) è il linguaggio standard per interagire con i database relazionali. Viene utilizzato per eseguire operazioni CRUD (Create, Read, Update, Delete) sui dati. In questo articolo esploreremo le operazioni fondamentali come SELECT, INSERT, UPDATE e DELETE, e come queste permettano di gestire facilmente i dati all'interno di un database."
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+ {
+  "author": "Informatica",
+  "title": "Fondamenti di amministrazione dei sistemi IT",
+  "url": "https://www.hkstyle.tech/articolo/importanza-di-un-infrastruttura-it-solida-per-la-crescita-aziendale",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
 },
 {
   "author": "Informatica",
-  "title": "L'impatto dell'intelligenza artificiale sulla società moderna",
-  "description": "Esplorazione delle applicazioni dell'intelligenza artificiale e del suo ruolo crescente in vari settori.",
-  "url": "https://www.itismagazine.it/categorie-funzionali/home-page/i-migliori-progressi-tecnologici-dellultimo-decennio/",
-  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
-  "publishedAt": "2023-10-16T00:00:00Z",
-  "content": "L'intelligenza artificiale e l'apprendimento automatico sono diventati essenziali in settori come i sistemi di raccomandazione, i veicoli autonomi e persino la diagnosi medica."
+  "title": "Guida ai principali sistemi di rete",
+  "url": "https://www.ificonsulting.eu/reti-informatiche/",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/reti-informatiche.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
 },
 {
   "author": "Informatica",
-  "title": "Le 20 innovazioni che hanno cambiato il mondo dal 2000 a oggi",
-  "description": "Una panoramica delle principali innovazioni tecnologiche che hanno rivoluzionato il mondo negli ultimi due decenni.",
-  "url": "https://am.pictet.com/pictetperte/tecnologia-e-innovazione/2023/le-20-innovazioni-che-hanno-cambiato-il-mondo-dal-2000-a-oggi",
-  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
-  "publishedAt": "2023-03-01T00:00:00Z",
-  "content": "È passato quasi un quarto di secolo dall'inizio del millennio. E mai come in questo periodo la tecnologia è stata rivoluzionaria. Ma quali sono state le innovazioni che hanno avuto maggiore impatto?"
+  "title": "Il ciclo di vita del software: fasi e metodologie",
+  "url": "https://www.nextre.it/ciclo-di-vita-del-software/",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/sviluppo-software.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
 },
-{
-  "author": "Informatica",
-  "title": "Innovazione tecnologica: storia, definizione ed esempi di tecnologie che cambiano la vita",
-  "description": "Un'analisi approfondita dell'evoluzione dell'innovazione tecnologica e delle sue implicazioni sulla società.",
-  "url": "https://www.economyup.it/innovazione/innovazione-tecnologica-storia-definizione-ed-esempi-di-tecnologie-che-cambiano-la-vita/",
-  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
-  "publishedAt": "2024-01-10T00:00:00Z",
-  "content": "Dall'avvento di Internet all'intelligenza artificiale, queste innovazioni hanno aperto nuove opportunità e sfide, ridefinendo le dinamiche sociali ed economiche globali."
-},
-{
-  "author": "Informatica",
-  "title": "Vent'anni di innovazione e passione per il Web e le tecnologie digitali",
-  "description": "Riflessioni sulle principali innovazioni nel campo del web e delle tecnologie digitali negli ultimi vent'anni.",
-  "url": "https://www.antonsessa.com/innovazione-web-tecnologie-digitali/",
-  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
-  "publishedAt": "2024-02-20T00:00:00Z",
-  "content": "Dalla nascita dei social media all'e-commerce, queste innovazioni hanno cambiato il modo in cui interagiamo, lavoriamo e ci divertiamo."
-},
-{
-  "author": "Informatica",
-  "title": "I 10 fenomeni di internet che hanno cambiato la nostra vita in 10 anni",
-  "description": "Un'analisi dei principali fenomeni di internet che hanno influenzato la nostra vita nell'ultimo decennio.",
-  "url": "https://www.wired.it/internet/web/2019/12/20/internet-cambia-vita/",
-  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
-  "publishedAt": "2019-12-20T00:00:00Z",
-  "content": "Dai social network al cloud, dal 5G al mobile, dal caso Cambridge Analytica al boom degli attacchi informatici: ecco com'è cambiata la rete in dieci anni."
-},
+
+
+
+
+
 {
   "author": "Attualità",
   "title": "Elezioni Europee 2024: cosa aspettarsi",
