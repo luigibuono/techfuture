@@ -26,21 +26,26 @@
     </div>
   </div>
 
-   <!-- Articoli filtrati -->
-  <div class="row mt-4">
-    <div class="col-md-6" *ngFor="let article of filteredNews.slice(0, 6); let i = index;" style="margin-bottom:2rem">
-      <div class="card h-100">
-        <!-- Immagine nella parte superiore della card -->
-        <img [src]="article.urlToImage" class="card-img-top-principali" alt="Immagine dell'articolo">
-        <div class="card-body">
-          <h5 class="card-title">{{ article.title }}</h5>
-          <p class="card-text">{{ article.description }}</p>
-          <a [href]="article.url" class="btn btn-primary">Leggi di più</a>
-        </div>
+<!-- Articoli filtrati -->
+<div class="row mt-4">
+  <div class="col-md-6" *ngFor="let article of filteredNews.slice(0, articlesPerPage); let i = index;" style="margin-bottom:2rem">
+    <div class="card h-100">
+      <img [src]="article.urlToImage" class="card-img-top-principali" alt="Immagine dell'articolo">
+      <div class="card-body">
+        <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
+        <a [href]="article.url" class="btn btn-primary">Leggi di più</a>
       </div>
     </div>
   </div>
 </div>
+
+<!-- Pulsante "Carica altri" -->
+<div class="text-center mt-3">
+  <button class="btn btn-secondary" (click)="loadMore()" *ngIf="articlesPerPage < filteredNews.length">
+    Carica altri
+  </button>
+</div>
+
 
 
 <div class="container mt-5 mb-5">
@@ -55,8 +60,7 @@
           </div>
           <div class="col-md-6">
             <div class="card-body2">
-              <h5 class="card-title">{{ news[0]?.title | slice:0:20 }}</h5>
-              <p class="card-text">{{ news[0]?.description | slice:0:50 }}</p>
+              <h5 class="card-title">{{ news[0]?.title | slice:0:50}}</h5>
               <a [href]="news[0]?.url" class="btn btn-primary" style="position: absolute; bottom: 10px">Leggi di più</a>
             </div>
           </div>
@@ -74,8 +78,7 @@
               <div class="date" style="display: flex; justify-content: center; margin-bottom: 1em;">
                   <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
               </div>
-              <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-              <p class="card-text">{{ article?.description | slice:0:50 }}</p>
+              <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
               <a [href]="article?.url" class="btn btn-primary"  style="position: absolute; bottom: 10px">Leggi di più</a>
             </div>
           </div>
@@ -105,8 +108,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
           </div>
         </div>
@@ -124,8 +126,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -144,8 +145,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -169,8 +169,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -188,8 +187,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -207,8 +205,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -233,8 +230,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -252,8 +248,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -271,8 +266,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -296,8 +290,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -315,8 +308,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -334,8 +326,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -365,8 +356,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -384,8 +374,7 @@
             <div class="date" >
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -408,8 +397,7 @@
         <div class="date" >
             <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
         </div>
-        <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-        <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+        <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
         <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
       </div>
     </div>
@@ -427,8 +415,7 @@
         <div class="date" >
             <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
         </div>
-        <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-        <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+        <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
         <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
       </div>
     </div>
@@ -455,8 +442,7 @@
           <div class="date" >
               <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
           </div>
-          <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-          <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+          <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
           <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
         </div>
       </div>
@@ -474,8 +460,7 @@
           <div class="date" >
               <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
           </div>
-          <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-          <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+          <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
           <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
         </div>
       </div>
@@ -498,8 +483,7 @@
           <div class="date" >
               <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
           </div>
-          <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-          <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+          <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
           <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
         </div>
       </div>
@@ -517,8 +501,7 @@
           <div class="date" >
               <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
           </div>
-          <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-          <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+          <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
           <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
         </div>
       </div>
@@ -535,9 +518,6 @@
   <hr>
   <div class="blue-background">
     <div class="card-container" #cardContainerPrimoPiano>
-      <!-- Frecce di navigazione -->
-      <div class="nav-arrow left" (click)="scrollCards('left')">&#8592;</div>
-      <div class="nav-arrow right" (click)="scrollCards('right')">&#8594;</div>
 
       <div class="card-inner-container">
         <div class="card d-inline-block m-2" style="width: 18rem;" *ngFor="let article of news.slice(0 ,10); let i = index;">
@@ -546,8 +526,7 @@
             <div class="date">
               <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -595,8 +574,7 @@
           </div>
           <div class="col-md-6">
             <div class="card-body2">
-              <h5 class="card-title">{{ news[0]?.title | slice:0:20 }}</h5>
-              <p class="card-text">{{ news[0]?.description | slice:0:50 }}</p>
+              <h5 class="card-title">{{ news[0]?.title | slice:0:50}}</h5>
               <a [href]="news[32]?.url" class="btn btn-primary" style="position: absolute; bottom: 10px">Leggi di più</a>
             </div>
           </div>
@@ -605,17 +583,16 @@
     </div>
 
     <!-- Tre card affiancate -->
-    <div class="col-md-6">
+    <div class="col-md-12">
       <div class="row">
-        <div class="col-md-4" *ngFor="let article of news.slice(33, 36); let i = index;">
+        <div class="col-md-4" *ngFor="let article of news.slice(33, 39); let i = index;">
           <div class="card">
             <img [src]="article?.urlToImage" class="card-img-top side-img" alt="Immagine {{ i + 1 }}">
             <div class="card-body2">
               <div class="date" style="display: flex; justify-content: center; margin-bottom: 1em;">
                   <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
               </div>
-              <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-              <p class="card-text">{{ article?.description | slice:0:50 }}</p>
+              <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
               <a [href]="article?.url" class="btn btn-primary"  style="position: absolute; bottom: 10px">Leggi di più</a>
             </div>
           </div>
@@ -643,8 +620,7 @@
               <div class="date" >
                   <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
               </div>
-              <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-              <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+              <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
               <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
             </div>
           </div>
@@ -665,8 +641,7 @@
               <div class="date" >
                   <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
               </div>
-              <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-              <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+              <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
               <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
             </div>
           </div>
@@ -687,8 +662,7 @@
                 <div class="date" >
                     <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
                 </div>
-                <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-                <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+                <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
                 <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
               </div>
             </div>
@@ -710,8 +684,7 @@
                   <div class="date" >
                       <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
                   </div>
-                  <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-                  <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+                  <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
                   <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
                 </div>
               </div>
@@ -735,8 +708,7 @@
             <div class="date">
               <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>
@@ -768,8 +740,7 @@
         </div>
         <div class="col-md-6">
           <div class="card-body2">
-            <h5 class="card-title">{{ news[60]?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ news[60]?.description | slice:0:50 }}</p>
+            <h5 class="card-title">{{ news[60]?.title | slice:0:50}}</h5>
             <a [href]="news[0]?.url" class="btn btn-primary" style="position: absolute; bottom: 10px">Leggi di più</a>
           </div>
         </div>
@@ -787,8 +758,7 @@
             <div class="date" style="display: flex; justify-content: center; margin-bottom: 1em;">
                 <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:50 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary"  style="position: absolute; bottom: 10px">Leggi di più</a>
           </div>
         </div>
@@ -799,327 +769,7 @@
 </div>
 
 
-
-
-
-  <div class="container mt-4">
-    <!-- Terza sezione con card -->
-    <div class="row mt-4">
-    <!-- Tre card affiancate -->
-      <div class="col-md-3">
-
-        <div class="row mb-4">
-          <div class="col-md-6" *ngFor="let article of news.slice(70,71); let i = index;">
-            <div class="card">
-              <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-            </div>
-          </div>
-
-          <div class="col-md-6" *ngFor="let article of news.slice(70,71); let i = index;">
-            <div class="card-body">
-              <div class="date" >
-                  <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-              </div>
-              <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-              <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-              <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-3">
-
-        <div class="row mb-4">
-          <div class="col-md-6" *ngFor="let article of news.slice(72,73); let i = index;">
-            <div class="card">
-              <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-            </div>
-          </div>
-
-          <div class="col-md-6" *ngFor="let article of news.slice(72,73); let i = index;">
-            <div class="card-body">
-              <div class="date" >
-                  <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-              </div>
-              <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-              <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-              <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-3">
-
-
-        <div class="row mb-4">
-          <div class="col-md-6" *ngFor="let article of news.slice(73,74); let i = index;">
-            <div class="card">
-              <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-            </div>
-          </div>
-
-          <div class="col-md-6" *ngFor="let article of news.slice(73,74); let i = index;">
-            <div class="card-body">
-              <div class="date" >
-                  <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-              </div>
-              <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-              <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-              <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-3">
-
-        <div class="row mb-4">
-          <div class="col-md-6" *ngFor="let article of news.slice(74,75); let i = index;">
-            <div class="card">
-              <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-            </div>
-          </div>
-
-          <div class="col-md-6" *ngFor="let article of news.slice(74,75); let i = index;">
-            <div class="card-body">
-              <div class="date" >
-                  <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-              </div>
-              <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-              <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-              <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="container mt-4">
-        <!-- Terza sezione con card -->
-        <div class="row mt-4">
-        <!-- Tre card affiancate -->
-          <div class="col-md-3">
-
-            <div class="row mb-4">
-              <div class="col-md-6" *ngFor="let article of news.slice(75,76); let i = index;">
-                <div class="card">
-                  <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-                </div>
-              </div>
-
-              <div class="col-md-6" *ngFor="let article of news.slice(74,75); let i = index;">
-                <div class="card-body">
-                  <div class="date" >
-                      <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-                  </div>
-                  <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-                  <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-                  <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-                </div>
-              </div>
-            </div>
-
-
-          </div>
-
-          <div class="col-md-3">
-
-             <div class="row mb-4">
-              <div class="col-md-6" *ngFor="let article of news.slice(76,77); let i = index;">
-                <div class="card">
-                  <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-                </div>
-              </div>
-
-              <div class="col-md-6" *ngFor="let article of news.slice(77,78); let i = index;">
-                <div class="card-body">
-                  <div class="date" >
-                      <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-                  </div>
-                  <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-                  <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-                  <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-                </div>
-              </div>
-            </div>
-
-
-
-          </div>
-
-          <div class="col-md-3">
-
-            <div class="row mb-4">
-              <div class="col-md-6" *ngFor="let article of news.slice(78,79); let i = index;">
-                <div class="card">
-                  <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-                </div>
-              </div>
-
-              <div class="col-md-6" *ngFor="let article of news.slice(79,80); let i = index;">
-                <div class="card-body">
-                  <div class="date" >
-                      <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-                  </div>
-                  <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-                  <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-                  <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-                </div>
-              </div>
-            </div>
-
-
-          </div>
-
-          <div class="col-md-3">
-
-            <div class="row mb-4">
-              <div class="col-md-6" *ngFor="let article of news.slice(80,81); let i = index;">
-                <div class="card">
-                  <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-                </div>
-              </div>
-
-              <div class="col-md-6" *ngFor="let article of news.slice(80,81); let i = index;">
-                <div class="card-body">
-                  <div class="date" >
-                      <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-                  </div>
-                  <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-                  <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-                  <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-                </div>
-              </div>
-            </div>
-
-
-          </div>
-
-          <!--Aggiunta3-->
-
-
-          <div class="container mt-4">
-            <!-- Terza sezione con card -->
-            <div class="row mt-4">
-            <!-- Tre card affiancate -->
-              <div class="col-md-3">
-
-                <div class="row mb-4">
-                  <div class="col-md-6" *ngFor="let article of news.slice(81,82); let i = index;">
-                    <div class="card">
-                      <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-                    </div>
-                  </div>
-
-                  <div class="col-md-6" *ngFor="let article of news.slice(81,82); let i = index;">
-                    <div class="card-body">
-                      <div class="date" >
-                          <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-                      </div>
-                      <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-                      <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-                      <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-
-              <div class="col-md-3">
-
-                <div class="row mb-4">
-                  <div class="col-md-6" *ngFor="let article of news.slice(82,83); let i = index;">
-                    <div class="card">
-                      <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-                    </div>
-                  </div>
-
-                  <div class="col-md-6" *ngFor="let article of news.slice(82,83); let i = index;">
-                    <div class="card-body">
-                      <div class="date" >
-                          <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-                      </div>
-                      <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-                      <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-                      <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-                    </div>
-                  </div>
-                </div>
-
-
-              </div>
-
-              <div class="col-md-3">
-
-                <div class="row mb-4">
-                  <div class="col-md-6" *ngFor="let article of news.slice(83,84); let i = index;">
-                    <div class="card">
-                      <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-                    </div>
-                  </div>
-
-                  <div class="col-md-6" *ngFor="let article of news.slice(83,84); let i = index;">
-                    <div class="card-body">
-                      <div class="date" >
-                          <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-                      </div>
-                      <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-                      <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-                      <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-
-              <div class="col-md-3">
-
-                <div class="row mb-4">
-                  <div class="col-md-6" *ngFor="let article of news.slice(84,85); let i = index;">
-                    <div class="card">
-                      <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Immagine {{ i + 1 }}">
-                    </div>
-                  </div>
-
-                  <div class="col-md-6" *ngFor="let article of news.slice(84,85); let i = index;">
-                    <div class="card-body">
-                      <div class="date" >
-                          <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
-                      </div>
-                      <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-                      <p class="card-text">{{ article?.description | slice:0:20 }}</p>
-                      <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-                    </div>
-                  </div>
-                </div>
-
-
-              </div>
 </div>
-</div>
-
-
-<!--Carousel-->
-<div #carousel id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item"  *ngFor="let article of news.slice(90,100); let i = index;" [class.active]="i === 0">
-      <img [src]="article?.urlToImage" class="card-img-top side-img2" alt="Slide {{i}}">
-      <div class="carousel-caption d-none d-md-block">
-        <div class="card-body">
-          <a [href]="article?.url" class="btn btn-primary"  >Leggi di più</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
 </div>
 
 
@@ -1136,8 +786,7 @@
             <div class="date">
               <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
             </div>
-            <h5 class="card-title">{{ article?.title | slice:0:20 }}</h5>
-            <p class="card-text">{{ article?.description | slice:0:20 }}</p>
+            <h5 class="card-title">{{ article?.title | slice:0:50 }}</h5>
             <a [href]="article?.url" class="btn btn-primary">Leggi di più</a>
           </div>
         </div>

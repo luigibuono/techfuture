@@ -65,6 +65,15 @@
   "publishedAt": "2019-12-20T00:00:00Z",
   "content": "Dai social network al cloud, dal 5G al mobile, dal caso Cambridge Analytica al boom degli attacchi informatici: ecco com'è cambiata la rete in dieci anni."
 },
+{
+  "author": "Attualità",
+  "title": "Elezioni Europee 2024: cosa aspettarsi",
+  "description": "Le elezioni europee del 2024 porteranno cambiamenti significativi nel panorama politico dell'UE.",
+  "url": "https://www.europarl.europa.eu/news/it",
+  "urlToImage": "https://static.ohga.it/wp-content/uploads/sites/24/2020/03/iStock-140054736.jpg",
+  "publishedAt": "2024-02-20T08:00:00Z",
+  "content": "Con l'avvicinarsi delle elezioni europee, gli esperti analizzano i possibili scenari per il futuro dell'Unione Europea."
+},
 
     {
   "author": "Attualità",
@@ -230,7 +239,7 @@
   "publishedAt": "2024-03-04T08:20:00Z",
   "content": "La nuova PlayStation 6 offre grafica migliorata, tempi di caricamento ridotti e una nuova esperienza di gioco."
 },
- 
+
   {
   "author": "Economia",
   "title": "L'inflazione in Europa scende sotto il 3%: segnali positivi per l’economia",
@@ -341,15 +350,30 @@
   "content": "Pogacar dimostra ancora una volta di essere uno dei ciclisti più forti della sua generazione."
 },
 
- {
+
+
+
+{
   "author": "Cultura",
-  "title": "Il Rinascimento italiano: Un viaggio nell'arte e nella cultura",
-  "description": "Scopri come il Rinascimento italiano ha trasformato l'arte, la scienza e la filosofia.",
-  "url": "https://www.michelangelo.org/renaissance-italy/",
+  "title": "Le opere più importanti della cultura mondiale",
+  "url": "https://blog.musement.com/it/10-delle-opere-darte-piu-belle-del-mondo/",
   "urlToImage": "https://www.vicini.to.it/wp-content/uploads/2016/03/Cultura.jpg",
-  "publishedAt": "2024-02-25T10:00:00Z",
-  "content": "Un'epoca di grande fermento culturale che ha visto i grandi maestri come Leonardo da Vinci, Michelangelo e Raffaello rivoluzionare il mondo dell'arte."
+  "publishedAt": "2024-03-09T10:00:00Z"
 },
+
+{
+  "author": "Cultura",
+  "title": "Le opere del Louvre da vedere assolutamente",
+  "url": "https://www.parigi.it/le-opere-da-vedere-assolutamente-al-louvre",
+  "urlToImage": "https://www.vicini.to.it/wp-content/uploads/2016/03/Cultura.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+
+
+
+
+
+
 {
   "author": "Cultura",
   "title": "L'influenza della letteratura latinoamericana sulla cultura mondiale",
@@ -453,61 +477,78 @@
 },
 
 
-  
+
+
 {
   "author": "Viaggi",
-  "title": "Le meraviglie di Kyoto: tra templi e giardini zen",
-  "description": "Kyoto è una delle città più affascinanti del Giappone, famosa per i suoi templi storici, i giardini zen e la tradizione culturale.",
-  "url": "https://www.japan.travel/en/destinations/kinki/kyoto/",
+  "title": "Le migliori mete da visitare nel mondo",
+  "url": "https://www.skyscanner.it/notizie/destinazioni-da-sogno-nel-mondo",
   "urlToImage": "https://www.toptrade.it/files/2014/04/viaggiare.jpg",
-  "publishedAt": "2024-01-25T10:00:00Z",
-  "content": "Kyoto offre una combinazione unica di spiritualità, storia e bellezza naturale, ed è un must per chi visita il Giappone."
+  "publishedAt": "2024-03-09T10:00:00Z"
 },
+
+
+
+
 {
   "author": "Viaggi",
-  "title": "Alla scoperta delle isole greche: un viaggio tra storia e mare cristallino",
-  "description": "Le isole greche sono una destinazione ideale per chi cerca paesaggi mozzafiato, cultura millenaria e acque cristalline.",
-  "url": "https://www.visitgreece.gr/en/greek_islands",
+  "title": "Le migliori mete da visitare in Italia",
+  "url": "https://viaggi.corriere.it/weekend/gallery/weekend-in-italia-30-mete-da-nord-a-sud/",
   "urlToImage": "https://www.toptrade.it/files/2014/04/viaggiare.jpg",
-  "publishedAt": "2024-02-05T09:30:00Z",
-  "content": "Ogni isola greca ha la sua unicità: dalle rovine storiche di Creta alle splendide spiagge di Mykonos, è un viaggio che non si dimentica facilmente."
+  "publishedAt": "2024-03-09T10:00:00Z"
 },
+
+
+
+
 {
   "author": "Viaggi",
-  "title": "Esplorando la Patagonia: il paradiso naturale del sud America",
-  "description": "La Patagonia è un luogo selvaggio, ricco di paesaggi mozzafiato, montagne, ghiacciai e fauna unica.",
-  "url": "https://www.patagonia.travel/",
+  "title": "Le migliori mete da visitare in Europa",
+  "url": "https://www.ryanair.com/try-somewhere-new/it/it/guide-di-viaggio/16meteeuropee/",
   "urlToImage": "https://www.toptrade.it/files/2014/04/viaggiare.jpg",
-  "publishedAt": "2024-02-12T08:15:00Z",
-  "content": "Scopri la maestosità dei ghiacciai e delle montagne della Patagonia, una destinazione perfetta per gli amanti della natura e dell'avventura."
+  "publishedAt": "2024-03-09T10:00:00Z"
 },
+
 {
   "author": "Viaggi",
-  "title": "Tour delle capitali europee: storia, cultura e divertimento",
-  "description": "Un tour delle principali capitali europee offre una combinazione perfetta di storia, cultura e modernità.",
-  "url": "https://www.european-cities.com/",
+  "title": "I patrimoni dell'UNESCO da visitare nel mondo",
+  "url": "https://www.griecotours.it/2024/01/15/10-siti-unesco-fuori-italia-da-visitare-almeno-una-volta-nella-vita/",
   "urlToImage": "https://www.toptrade.it/files/2014/04/viaggiare.jpg",
-  "publishedAt": "2024-02-20T07:30:00Z",
-  "content": "Dalle strade storiche di Roma, alla maestosità di Parigi, fino alla vivacità di Berlino, ogni capitale europea ha un'atmosfera unica da scoprire."
+  "publishedAt": "2024-03-09T10:00:00Z"
 },
+
+
+
+
+
 {
   "author": "Viaggi",
-  "title": "Viaggio a Bali: tra spiritualità e spiagge paradisiache",
-  "description": "Bali è una destinazione che combina bellezze naturali con una forte tradizione spirituale, ed è famosa per le sue spiagge e templi.",
-  "url": "https://www.balitourismboard.org/",
+  "title": "Le migliori mete low cost da visitare nel mondo",
+  "url": "https://www.piratinviaggio.it/travel-magazine/it-dove-viaggiare-spendendo-poco-del-2025",
   "urlToImage": "https://www.toptrade.it/files/2014/04/viaggiare.jpg",
-  "publishedAt": "2024-02-28T09:00:00Z",
-  "content": "Bali è la meta ideale per chi cerca tranquillità spirituale e divertimento sotto il sole, con le sue spiagge da sogno e templi storici."
+  "publishedAt": "2024-03-09T10:00:00Z"
 },
+
+
+
 {
   "author": "Viaggi",
-  "title": "Safari in Kenya: un'esperienza indimenticabile nella savana",
-  "description": "Il safari in Kenya è un'esperienza unica per osservare la fauna selvatica nel suo habitat naturale e vivere la bellezza della savana.",
-  "url": "https://www.magicalkenya.com/",
+  "title": "Le meraviglie imperdibili da vedere nel mondo",
+  "url": "https://www.civitatis.com/blog/it/7-meraviglie-mondo-moderno/?srsltid=AfmBOoqKOZwjdhKiieyIHWL2zRBtTQUpwt0Mp6QHHJAt4tdfVL1A17_4",
   "urlToImage": "https://www.toptrade.it/files/2014/04/viaggiare.jpg",
-  "publishedAt": "2024-03-05T08:45:00Z",
-  "content": "Vivi l'emozione di un safari attraverso il Masai Mara e il Parco Nazionale di Amboseli, dove si possono ammirare elefanti, leoni e altri animali selvatici."
+  "publishedAt": "2024-03-09T10:00:00Z"
 },
+
+
+{
+  "author": "Viaggi",
+  "title": "Eventi imperdibili da vedere nel mondo",
+  "url": "https://travel.thewom.it/destinazioni/news-lowcost/eventi-del-mondo.html",
+  "urlToImage": "https://www.toptrade.it/files/2014/04/viaggiare.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+
+
 
 {
   "author": "Musica",
@@ -565,9 +606,9 @@
 }
 
 
-    
 
-  
-    
+
+
+
   ]
 }

@@ -92,6 +92,12 @@ export class HomeComponent {
     }
   }
 
+  articlesPerPage = 6; // Numero iniziale di articoli mostrati
+
+  loadMore() {
+    this.articlesPerPage += 6; // Aggiunge altri 6 articoli alla lista
+  }
+
   @HostListener('mouseup', ['$event'])
   onMouseUp() {
     this.isMouseDown = false;
