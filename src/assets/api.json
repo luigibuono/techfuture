@@ -58,6 +58,283 @@
   "urlToImage": "https://www.it-impresa.it/wp-content/uploads/sviluppo-software.jpg",
   "publishedAt": "2024-03-09T10:00:00Z"
 },
+    
+{
+  "author": "Attualità",
+  "title": "I piani dell'Europa per il futuro: sfide e obiettivi",
+  "url": "https://www.consilium.europa.eu/it/policies/conference-on-the-future-of-europe/",
+  "urlToImage": "https://static.ohga.it/wp-content/uploads/sites/24/2020/03/iStock-140054736.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+{
+  "author": "Attualità",
+  "title": "Elezioni Europee 2024: cosa aspettarsi",
+  "description": "Le elezioni europee del 2024 porteranno cambiamenti significativi nel panorama politico dell'UE.",
+  "url": "https://www.europarl.europa.eu/news/it",
+  "urlToImage": "https://static.ohga.it/wp-content/uploads/sites/24/2020/03/iStock-140054736.jpg",
+  "publishedAt": "2024-02-20T08:00:00Z",
+  "content": "Con l'avvicinarsi delle elezioni europee, gli esperti analizzano i possibili scenari per il futuro dell'Unione Europea."
+},
+{
+  "author": "Attualità",
+  "title": "Crisi climatica: i nuovi accordi della COP28",
+  "description": "Alla conferenza delle Nazioni Unite sul clima si discute di nuove strategie per contrastare il cambiamento climatico.",
+  "url": "https://unfccc.int/cop28",
+  "urlToImage": "https://static.ohga.it/wp-content/uploads/sites/24/2020/03/iStock-140054736.jpg",
+  "publishedAt": "2024-01-15T12:30:00Z",
+  "content": "Leader mondiali si riuniscono per prendere decisioni cruciali sul futuro delle politiche ambientali globali."
+},
+{
+  "author": "Attualità",
+  "title": "Inflazione in Europa: dati aggiornati e previsioni",
+  "description": "L'inflazione in Europa mostra segnali di rallentamento, ma gli esperti avvertono sui rischi futuri.",
+  "url": "https://www.ecb.europa.eu/home/html/index.en.html",
+  "urlToImage": "https://static.ohga.it/wp-content/uploads/sites/24/2020/03/iStock-140054736.jpg",
+  "publishedAt": "2024-02-10T09:15:00Z",
+  "content": "L'Unione Europea affronta il problema dell'inflazione con nuove strategie economiche."
+},
+{
+  "author": "Attualità",
+  "title": "Intelligenza Artificiale: nuove leggi in arrivo",
+  "description": "L'Unione Europea lavora a una regolamentazione dell'Intelligenza Artificiale per garantire sicurezza ed etica.",
+  "url": "https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
+  "urlToImage": "https://static.ohga.it/wp-content/uploads/sites/24/2020/03/iStock-140054736.jpg",
+  "publishedAt": "2024-03-01T14:45:00Z",
+  "content": "L'AI Act dell'UE mira a regolamentare l'uso dell'Intelligenza Artificiale in diversi settori."
+},
+{
+  "author": "Attualità",
+  "title": "Conflitto in Ucraina: la situazione attuale",
+  "description": "Un aggiornamento sugli sviluppi del conflitto tra Russia e Ucraina.",
+  "url": "https://www.bbc.com/news/world-europe-60506682",
+  "urlToImage": "https://static.ohga.it/wp-content/uploads/sites/24/2020/03/iStock-140054736.jpg",
+  "publishedAt": "2024-02-28T10:00:00Z",
+  "content": "La guerra in Ucraina continua a evolversi con nuove dichiarazioni e strategie diplomatiche."
+},
+{
+  "author": "Attualità",
+  "title": "Nuove scoperte nel vaccino contro il COVID-19",
+  "description": "Gli scienziati sviluppano un nuovo vaccino più efficace contro le varianti del COVID-19.",
+  "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+  "urlToImage": "https://static.ohga.it/wp-content/uploads/sites/24/2020/03/iStock-140054736.jpg",
+  "publishedAt": "2024-03-05T11:20:00Z",
+  "content": "Le nuove ricerche promettono vaccini più resistenti alle varianti emergenti del virus."
+},
+   
+{
+  "author": "Scienze",
+  "title": "Le scoperte scientifiche più importanti del 2024",
+  "url": "https://www.wired.it/gallery/scienza-scoperte-2024-science/",
+  "urlToImage": "https://www.rizzolieducation.it/content/uploads/2022/02/wepik-2022117-105028.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+{
+  "author": "Scienze",
+  "title": "Il cervello umano può rigenerarsi? Nuove scoperte sulla neurogenesi",
+  "description": "Uno studio rivoluzionario suggerisce che il cervello adulto può creare nuovi neuroni.",
+  "url": "https://www.nature.com/articles/d41586-024-00568-1",
+  "urlToImage": "https://www.rizzolieducation.it/content/uploads/2022/02/wepik-2022117-105028.jpg",
+  "publishedAt": "2024-03-02T10:30:00Z",
+  "content": "I ricercatori hanno identificato meccanismi che potrebbero favorire la crescita di nuovi neuroni nel cervello umano."
+},
+{
+  "author": "Scienze",
+  "title": "Energia dalle alghe: il futuro delle rinnovabili?",
+  "description": "Gli scienziati stanno sviluppando biocarburanti sostenibili dalle alghe marine.",
+  "url": "https://www.sciencedirect.com/science/article/pii/S1364032123002456",
+  "urlToImage": "https://www.rizzolieducation.it/content/uploads/2022/02/wepik-2022117-105028.jpg",
+  "publishedAt": "2024-01-25T09:15:00Z",
+  "content": "Le alghe potrebbero rappresentare una soluzione innovativa per la produzione di energia rinnovabile e sostenibile."
+},
+{
+  "author": "Scienze",
+  "title": "Il primo trapianto di rene da un maiale geneticamente modificato a un essere umano",
+  "description": "Un team di chirurghi ha completato con successo il primo trapianto di rene da maiale a uomo.",
+  "url": "https://www.nytimes.com/2024/02/28/health/kidney-transplant-pig-human.html",
+  "urlToImage": "https://www.rizzolieducation.it/content/uploads/2022/02/wepik-2022117-105028.jpg",
+  "publishedAt": "2024-02-28T16:00:00Z",
+  "content": "L'intervento è un passo avanti nella ricerca sui trapianti da animali a esseri umani per affrontare la carenza di organi."
+},
+{
+  "author": "Scienze",
+  "title": "La fusione nucleare è più vicina: nuovo record di energia prodotta",
+  "description": "Un laboratorio europeo ha raggiunto un nuovo record nella produzione di energia da fusione nucleare.",
+  "url": "https://www.iter.org/newsline/348",
+  "urlToImage": "https://www.rizzolieducation.it/content/uploads/2022/02/wepik-2022117-105028.jpg",
+  "publishedAt": "2024-03-01T11:45:00Z",
+  "content": "L'energia da fusione nucleare potrebbe rappresentare una soluzione per un futuro più sostenibile."
+},
+{
+  "author": "Scienze",
+  "title": "Gli oceani si stanno riscaldando più velocemente del previsto",
+  "description": "Uno studio pubblicato su Nature rivela che gli oceani assorbono più calore del previsto, con gravi conseguenze.",
+  "url": "https://www.nature.com/articles/s41586-024-00645-9",
+  "urlToImage": "https://www.rizzolieducation.it/content/uploads/2022/02/wepik-2022117-105028.jpg",
+  "publishedAt": "2024-03-04T08:20:00Z",
+  "content": "I ricercatori avvertono che il riscaldamento degli oceani potrebbe accelerare il cambiamento climatico."
+},
+
+
+    
+{
+  "author": "Tecnologia",
+  "title": "L'evoluzione delle intelligenze artificiali: il futuro è già qui",
+  "url": "https://blog.osservatori.net/it_it/storia-intelligenza-artificiale",
+  "urlToImage": "https://www.aggiornamentisociali.it/Archivi/AGSO/Img/0022/22777.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+{
+  "author": "Tecnologia",
+  "title": "Il 5G e le sue applicazioni: come cambierà il mondo digitale",
+  "url": "https://www.agendadigitale.eu/infrastrutture/5g-quando-arriva-in-italia-e-che-ci-faremo-2019-2022/",
+  "urlToImage": "https://www.aggiornamentisociali.it/Archivi/AGSO/Img/0022/22777.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+{
+  "author": "Tecnologia",
+  "title": "Blockchain: oltre le criptovalute, la nuova frontiera della sicurezza",
+  "url": "https://aws.amazon.com/it/what-is/blockchain/?aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc",
+  "urlToImage": "https://www.aggiornamentisociali.it/Archivi/AGSO/Img/0022/22777.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+{
+  "author": "Tecnologia",
+  "title": "Le tecnologie di smart home: innovazione e comfort a casa",
+  "url": "https://elettricomagazine.it/domotica-building-automation/smart-home-tecnologie-a-disposizione/",
+  "urlToImage": "https://www.aggiornamentisociali.it/Archivi/AGSO/Img/0022/22777.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+{
+  "author": "Tecnologia",
+  "title": "L'intelligenza artificiale nella medicina: il futuro della salute",
+  "url": "https://www.agendadigitale.eu/sanita/rischi-vantaggi-intelligenza-artificiale-sanita-ocse/",
+  "urlToImage": "https://www.aggiornamentisociali.it/Archivi/AGSO/Img/0022/22777.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+{
+  "author": "Tecnologia",
+  "title": "Il futuro delle auto elettriche: innovazioni e tendenze",
+  "url": "https://blog.fratelligiacomel.it/futuro-auto-elettriche",
+  "urlToImage": "https://www.aggiornamentisociali.it/Archivi/AGSO/Img/0022/22777.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+{
+  "author": "Tecnologia",
+  "title": "L'era del cloud computing: come il cloud sta trasformando l'industria",
+  "url": "https://www.polostrategiconazionale.it/media/news/evoluzione-del-cloud/",
+  "urlToImage": "https://www.aggiornamentisociali.it/Archivi/AGSO/Img/0022/22777.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+},
+{
+  "author": "Tecnologia",
+  "title": "Sony svela la nuova PlayStation 6: caratteristiche e data di uscita",
+  "description": "Sony ha annunciato PlayStation 6 con hardware potenziato e nuove funzionalità innovative.",
+  "url": "https://www.playstation.com/news/ps6-announcement-2024",
+  "urlToImage": "https://www.aggiornamentisociali.it/Archivi/AGSO/Img/0022/22777.jpg",
+  "publishedAt": "2024-03-04T08:20:00Z",
+  "content": "La nuova PlayStation 6 offre grafica migliorata, tempi di caricamento ridotti e una nuova esperienza di gioco."
+},
+
+
+    
+  {
+  "author": "Economia",
+  "title": "L'inflazione in Europa scende sotto il 3%: segnali positivi per l’economia",
+  "url": "https://www.soldionline.it/notizie/macroeconomia/inflazione-europa-2025",
+  "urlToImage": "https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/2022/08/17/Commenti%20e%20inchieste/ImmaginiWeb/Ritagli/economia-AdobeStock_503474263-kgx--1020x533@IlSole24Ore-Web.jpeg",
+  "publishedAt": "2024-03-01T10:00:00Z",
+},
+{
+  "author": "Economia",
+  "title": "La crescita del PIL italiano supera le aspettative nel 2024",
+  "description": "L’Istat ha rivisto al rialzo la crescita del PIL italiano, che supera il 1,2% nel primo trimestre del 2024.",
+  "url": "https://www.istat.it/economia-pil-2024",
+  "urlToImage": "https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/2022/08/17/Commenti%20e%20inchieste/ImmaginiWeb/Ritagli/economia-AdobeStock_503474263-kgx--1020x533@IlSole24Ore-Web.jpeg",
+  "publishedAt": "2024-03-02T09:30:00Z",
+  "content": "I settori della manifattura e del turismo trainano l’economia italiana, portando una crescita superiore alle aspettative."
+},
+{
+  "author": "Economia",
+  "title": "Wall Street registra il miglior trimestre dal 2020",
+  "description": "Gli indici di Wall Street chiudono il trimestre con guadagni record grazie al settore tecnologico e AI.",
+  "url": "https://www.nasdaq.com/news/wall-street-q1-2024",
+  "urlToImage": "https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/2022/08/17/Commenti%20e%20inchieste/ImmaginiWeb/Ritagli/economia-AdobeStock_503474263-kgx--1020x533@IlSole24Ore-Web.jpeg",
+  "publishedAt": "2024-03-03T15:45:00Z",
+  "content": "Il Nasdaq guida la crescita con un aumento dell'8%, trainato dalle aziende di intelligenza artificiale e semiconduttori."
+},
+{
+  "author": "Economia",
+  "title": "La Cina taglia i tassi di interesse per stimolare la crescita",
+  "description": "La Banca Popolare Cinese ha abbassato i tassi di interesse per incentivare la ripresa economica post-pandemia.",
+  "url": "https://www.reuters.com/markets/china-rate-cut-2024",
+  "urlToImage": "https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/2022/08/17/Commenti%20e%20inchieste/ImmaginiWeb/Ritagli/economia-AdobeStock_503474263-kgx--1020x533@IlSole24Ore-Web.jpeg",
+  "publishedAt": "2024-03-04T12:20:00Z",
+  "content": "Con la riduzione del tasso di riferimento, la Cina cerca di sostenere il mercato immobiliare e il settore industriale."
+},
+{
+  "author": "Economia",
+  "title": "Bitcoin supera i 60.000$ con l'approvazione degli ETF spot",
+  "description": "L’approvazione degli ETF spot su Bitcoin ha portato il valore della criptovaluta oltre i 60.000$.",
+  "url": "https://www.coindesk.com/news/bitcoin-etf-approval-2024",
+  "urlToImage": "https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/2022/08/17/Commenti%20e%20inchieste/ImmaginiWeb/Ritagli/economia-AdobeStock_503474263-kgx--1020x533@IlSole24Ore-Web.jpeg",
+  "publishedAt": "2024-03-05T14:10:00Z",
+  "content": "L'interesse istituzionale per Bitcoin cresce grazie agli ETF spot, con investitori sempre più attivi nel settore."
+},
+{
+  "author": "Economia",
+  "title": "L’occupazione in Italia cresce del 2% nel 2024",
+  "description": "I dati Istat mostrano un aumento del 2% dell’occupazione in Italia, con il settore digitale in forte espansione.",
+  "url": "https://www.istat.it/news/occupazione-italia-2024",
+  "urlToImage": "https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/2022/08/17/Commenti%20e%20inchieste/ImmaginiWeb/Ritagli/economia-AdobeStock_503474263-kgx--1020x533@IlSole24Ore-Web.jpeg",
+  "publishedAt": "2024-03-06T08:50:00Z",
+  "content": "L’occupazione in Italia continua a crescere, soprattutto nei settori legati alla tecnologia e all’innovazione."
+},
+
+{
+  "author": "Sport",
+  "title": "Champions League: Il Real Madrid avanza ai quarti di finale",
+  "description": "Il Real Madrid supera il Manchester City con una vittoria spettacolare ai rigori.",
+  "url": "https://www.uefa.com/uefachampionsleague/news/real-madrid-quarti-2024",
+  "urlToImage": "https://www.blueclinic.it/images/news/2021/sports-tools-.jpg",
+  "publishedAt": "2024-03-07T22:30:00Z",
+  "content": "Il Real Madrid dimostra ancora una volta di essere una delle squadre più forti in Europa con una vittoria sofferta ai rigori."
+},
+{
+  "author": "Sport",
+  "title": "Formula 1: Verstappen domina il GP del Bahrain",
+  "description": "Max Verstappen vince la prima gara della stagione con un margine di 10 secondi sul secondo classificato.",
+  "url": "https://www.formula1.com/news/verstappen-bahrain-2024",
+  "urlToImage": "https://www.blueclinic.it/images/news/2021/sports-tools-.jpg",
+  "publishedAt": "2024-03-08T18:00:00Z",
+  "content": "Il pilota olandese continua a dimostrare la sua superiorità con una performance impeccabile nel primo GP dell'anno."
+},
+{
+  "author": "Sport",
+  "title": "Tennis: Jannik Sinner trionfa agli Australian Open",
+  "description": "L'azzurro Jannik Sinner vince il suo primo Slam battendo Medvedev in finale.",
+  "url": "https://www.atptour.com/news/sinner-australian-open-2024",
+  "urlToImage": "https://www.blueclinic.it/images/news/2021/sports-tools-.jpg",
+  "publishedAt": "2024-01-28T10:45:00Z",
+  "content": "Sinner entra nella storia del tennis italiano diventando il primo azzurro a vincere gli Australian Open."
+},
+{
+  "author": "Sport",
+  "title": "Calcio: L'Italia si prepara per Euro 2024",
+  "description": "Mancini annuncia i convocati per il torneo europeo, con molte sorprese tra i giovani talenti.",
+  "url": "https://www.figc.it/news/italia-euro-2024-convocati",
+  "urlToImage": "https://www.blueclinic.it/images/news/2021/sports-tools-.jpg",
+  "publishedAt": "2024-03-09T12:15:00Z",
+  "content": "L'Italia punta su una squadra giovane e ambiziosa per difendere il titolo conquistato nel 2021."
+},
+{
+  "author": "Sport",
+  "title": "NBA: LeBron James supera i 40.000 punti in carriera",
+  "description": "LeBron James diventa il primo giocatore NBA a superare i 40.000 punti totali.",
+  "url": "https://www.nba.com/news/lebron-40000-points",
+  "urlToImage": "https://www.blueclinic.it/images/news/2021/sports-tools-.jpg",
+  "publishedAt": "2024-03-10T05:30:00Z",
+  "content": "Un traguardo storico per LeBron James, che consolida la sua posizione tra le leggende del basket."
+},
 
 
 
