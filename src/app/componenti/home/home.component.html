@@ -60,6 +60,9 @@
           </div>
           <div class="col-md-6">
             <div class="card-body2">
+               <div class="date" style="display: flex; justify-content: center; margin-bottom: 1em;">
+                  <b class="custom-date">{{ article?.publishedAt  | slice:0:10 }}</b>
+              </div>
               <h5 class="card-title">{{ news[0]?.title | slice:0:50}}</h5>
               <a [href]="news[0]?.url" class="btn btn-primary" style="position: absolute; bottom: 10px">Leggi di più</a>
             </div>
