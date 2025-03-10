@@ -175,7 +175,56 @@
 },
 
 
-    
+ {
+  "author": "Tecnologia",
+  "title": "Smartphone pieghevoli: la nuova rivoluzione del mercato mobile",
+  "url": "https://www.euronics.it/blog/ls-smartphone-pieghevole-come-funziona-vantaggi.html",
+  "urlToImage": "https://www.aggiornamentisociali.it/Archivi/AGSO/Img/0022/22777.jpg",
+  "publishedAt": "2024-03-10T15:30:00Z"
+},
+{
+  "author": "Tecnologia",
+  "title": "Quantum Computing: la prossima frontiera dell'informatica",
+  "url": "https://www.ey.com/it_it/services/technology/digital-emerging-technology/quantum-computing",
+  "urlToImage": "https://www.aggiornamentisociali.it/Archivi/AGSO/Img/0022/22777.jpg",
+  "publishedAt": "2024-03-10T16:00:00Z"
+},
+{
+  "author": "Tecnologia",
+  "title": "Batterie del futuro: ricarica ultrarapida e maggiore durata",
+  "url": "https://www.rinnovabili.it/mobilita/automotive/batteria-ricarica-ultrarapida-nyobolt-meno-5-minuti/#:~:text=La%20batteria%20a%20ricarica%20ultra,attesta%20su%2015%2D20%20minuti.",
+  "urlToImage": "https://www.aggiornamentisociali.it/Archivi/AGSO/Img/0022/22777.jpg",
+  "publishedAt": "2024-03-10T19:30:00Z"
+},
+{
+  "author": "Tecnologia",
+  "title": "Realtà virtuale e aumentata: come stanno trasformando il nostro mondo",
+  "url": "https://arweb.it/realta-aumentata-vantaggi-ar-benefici/#:~:text=La%20Realt%C3%A0%20Aumentata%20(AR)%20sta%20evolvendo%20rapidamente%20grazie%20all',IoT)%2C%20Blockchain%20e%205G.",
+  "urlToImage": "https://www.example.com/images/vr-ar.jpg",
+  "publishedAt": "2024-03-10T22:30:00Z"
+},
+{
+  "author": "Tecnologia",
+  "title": "Il futuro dell'intelligenza artificiale: tra opportunità e sfide",
+  "url": "https://www.agendadigitale.eu/cultura-digitale/ai-boom-le-promesse-e-i-pericoli-di-un-futuro-intelligente/",
+  "urlToImage": "https://www.example.com/images/ai-future.jpg",
+  "publishedAt": "2024-03-11T10:00:00Z"
+},
+{
+    "author": "Tecnologia",
+    "title": "La rivoluzione delle smart cities: la tecnologia che cambia la città",
+    "url": "https://www.4genergia.it/rivoluzione-smart-city-tecnologia-energia-citta-sostenibili/#:~:text=Le%20Smart%20City%20rappresentano%20il,l'uso%20di%20energie%20rinnovabili.",
+    "urlToImage": "https://www.example.com/images/smart-cities.jpg",
+    "publishedAt": "2024-03-15T07:45:00Z"
+},
+{
+    "author": "Tecnologia",
+    "title": "La tecnologia nell'arte: creazioni digitali e NFT",
+    "url": "https://www.bitpanda.com/academy/it/lezioni/cos-e-l-arte-nft/",
+    "urlToImage": "https://www.example.com/images/digital-art.jpg",
+    "publishedAt": "2024-03-24T14:00:00Z"
+},
+
 {
   "author": "Tecnologia",
   "title": "L'evoluzione delle intelligenze artificiali: il futuro è già qui",
