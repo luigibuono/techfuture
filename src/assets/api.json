@@ -2,6 +2,13 @@
   "status": "ok",
   "totalResults": 60,
   "articles": [
+{
+  "author": "Informatica",
+  "title": "Tutto quello che devi sapere su React Native",
+  "url": "https://oneam.it/blog/cos-e-react-native-tutto-quello-che-devi-sapere-2024",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+  "publishedAt": "2024-03-09T10:00:00Z"
+  },
   {
   "author": "Informatica",
   "title": "I linguaggi di programmazione più usati oggi",
