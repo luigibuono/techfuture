@@ -2,6 +2,55 @@
   "status": "ok",
   "totalResults": 60,
   "articles": [
+    {
+  "author": "Informatica",
+  "title": "Containers vs Virtual Machines: Quali Sono le Differenze?",
+  "url": "https://aws.amazon.com/it/compare/the-difference-between-containers-and-virtual-machines/#:~:text=Le%20macchine%20virtuali%20occupano%20pi%C3%B9,sono%20pi%C3%B9%20facili%20da%20dimensionare.",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+  "publishedAt": "2024-04-12T10:00:00Z"
+},
+ {
+  "author": "Informatica",
+  "title": "Automazione: Il Ruolo dei Robot nella Rivoluzione Industriale 4.0",
+  "url": "https://elettromatic.it/il-ruolo-dellautomazione-industriale-e-della-robotica-nellindustria-4-0/",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+  "publishedAt": "2024-04-06T10:00:00Z"
+},
+   {
+  "author": "Informatica",
+  "title": "L'Importanza delle API nello Sviluppo Moderno",
+  "url": "https://www.azionadigitale.com/api-cosa-sono-e-come-funzionano/",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+  "publishedAt": "2024-03-30T10:00:00Z"
+},
+    {
+  "author": "Informatica",
+  "title": "Edge Computing: La Nuova Frontiera della Tecnologia",
+  "url": "https://www.we-plus.eu/news/ledge-computing-lultima-frontiera-della-tecnologia",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+  "publishedAt": "2024-03-26T10:00:00Z"
+},
+    {
+  "author": "Informatica",
+  "title": "DevOps: Come Accelerare il Ciclo di Sviluppo",
+  "url": "https://mia-platform.eu/it/blog/devops/",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+  "publishedAt": "2024-03-10T10:00:00Z"
+},
+{
+  "author": "Informatica",
+  "title": "Sviluppo Web: Il Futuro di HTML5 e CSS3",
+  "url": "https://www.domestika.org/it/courses/99-tecniche-di-sviluppo-web-con-html5-e-css3",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+  "publishedAt": "2024-03-14T10:00:00Z"
+},
+{
+  "author": "Informatica",
+  "title": "La Programmazione Orientata agli Oggetti: Vantaggi e Limiti",
+  "url": "https://blog.develhope.co/programmazione-a-oggetti-che-cose-e-quali-sono-i-vantaggi/",
+  "urlToImage": "https://www.it-impresa.it/wp-content/uploads/infrastruttura-informatica.jpg",
+  "publishedAt": "2024-03-18T10:00:00Z"
+},
 {
   "author": "Informatica",
   "title": "Tutto quello che devi sapere su React Native",
